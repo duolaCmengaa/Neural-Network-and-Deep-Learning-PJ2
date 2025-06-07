@@ -66,5 +66,3 @@ python Test_VGG.py
 | ResNet18\_filtermul | 44.60      | 95.45             | 20.12               |
 | ResNet34            | 21.28      | 95.45             | 14.67               |
 
-```
-```
