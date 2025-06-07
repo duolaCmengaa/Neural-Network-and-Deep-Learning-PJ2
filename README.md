@@ -47,7 +47,7 @@ First, navigate to the second task directory:
 cd VGG_BatchNorm
 ```
 
-For Task 2.2: Run `VGG_Accuracy.py`.
+For Task 2.2: See `VGG_Comparison.ipynb`.
 
 For Task 2.3: Run `VGG_Loss_Landscape.py`.
 
