@@ -1,0 +1,644 @@
+2025-06-06 16:32:08,541 - INFO - The total parameters: 21282122
+2025-06-06 16:32:24,851 - INFO - Training Epoch 1/200: 100%|█| 391/391 [00:16<00:00, 23.98it/s, Train_loss=2.239, Train_accuracy=21.7
+2025-06-06 16:32:26,559 - INFO - Testing Epoch 1/200: 100%|███████| 100/100 [00:01<00:00, 58.60it/s, Test_loss=1.898, Te_acc=29.740%]
+2025-06-06 16:32:26,560 - INFO - Now Saving..
+2025-06-06 16:32:26,710 - INFO - Epoch 1/200, Epoch time: 18.02s, Test accuracy: 29.74%
+2025-06-06 16:32:40,072 - INFO - Training Epoch 2/200: 100%|█| 391/391 [00:13<00:00, 29.26it/s, Train_loss=1.687, Train_accuracy=37.5
+2025-06-06 16:32:41,585 - INFO - Testing Epoch 2/200: 100%|███████| 100/100 [00:01<00:00, 66.18it/s, Test_loss=1.477, Te_acc=45.290%]
+2025-06-06 16:32:41,585 - INFO - Now Saving..
+2025-06-06 16:32:42,109 - INFO - Epoch 2/200, Epoch time: 14.88s, Test accuracy: 45.29%
+2025-06-06 16:32:55,491 - INFO - Training Epoch 3/200: 100%|█| 391/391 [00:13<00:00, 29.22it/s, Train_loss=1.446, Train_accuracy=47.1
+2025-06-06 16:32:57,012 - INFO - Testing Epoch 3/200: 100%|███████| 100/100 [00:01<00:00, 65.81it/s, Test_loss=1.270, Te_acc=53.350%]
+2025-06-06 16:32:57,012 - INFO - Now Saving..
+2025-06-06 16:32:57,532 - INFO - Epoch 3/200, Epoch time: 14.90s, Test accuracy: 53.35%
+2025-06-06 16:33:10,752 - INFO - Training Epoch 4/200: 100%|█| 391/391 [00:13<00:00, 29.58it/s, Train_loss=1.228, Train_accuracy=55.5
+2025-06-06 16:33:12,275 - INFO - Testing Epoch 4/200: 100%|███████| 100/100 [00:01<00:00, 65.72it/s, Test_loss=1.105, Te_acc=61.160%]
+2025-06-06 16:33:12,275 - INFO - Now Saving..
+2025-06-06 16:33:12,774 - INFO - Epoch 4/200, Epoch time: 14.74s, Test accuracy: 61.16%
+2025-06-06 16:33:25,580 - INFO - Training Epoch 5/200: 100%|█| 391/391 [00:12<00:00, 30.54it/s, Train_loss=1.029, Train_accuracy=63.1
+2025-06-06 16:33:27,089 - INFO - Testing Epoch 5/200: 100%|███████| 100/100 [00:01<00:00, 66.34it/s, Test_loss=0.978, Te_acc=65.610%]
+2025-06-06 16:33:27,090 - INFO - Now Saving..
+2025-06-06 16:33:27,586 - INFO - Epoch 5/200, Epoch time: 14.32s, Test accuracy: 65.61%
+2025-06-06 16:33:41,108 - INFO - Training Epoch 6/200: 100%|█| 391/391 [00:13<00:00, 28.92it/s, Train_loss=0.845, Train_accuracy=70.4
+2025-06-06 16:33:42,666 - INFO - Testing Epoch 6/200: 100%|███████| 100/100 [00:01<00:00, 64.25it/s, Test_loss=0.842, Te_acc=70.470%]
+2025-06-06 16:33:42,666 - INFO - Now Saving..
+2025-06-06 16:33:43,196 - INFO - Epoch 6/200, Epoch time: 15.08s, Test accuracy: 70.47%
+2025-06-06 16:33:56,975 - INFO - Training Epoch 7/200: 100%|█| 391/391 [00:13<00:00, 28.39it/s, Train_loss=0.704, Train_accuracy=75.4
+2025-06-06 16:33:58,551 - INFO - Testing Epoch 7/200: 100%|███████| 100/100 [00:01<00:00, 63.51it/s, Test_loss=0.909, Te_acc=69.880%]
+2025-06-06 16:33:58,552 - INFO - Epoch 7/200, Epoch time: 15.36s, Test accuracy: 69.88%
+2025-06-06 16:34:11,410 - INFO - Training Epoch 8/200: 100%|█| 391/391 [00:12<00:00, 30.41it/s, Train_loss=0.621, Train_accuracy=78.4
+2025-06-06 16:34:12,938 - INFO - Testing Epoch 8/200: 100%|███████| 100/100 [00:01<00:00, 65.49it/s, Test_loss=0.671, Te_acc=76.720%]
+2025-06-06 16:34:12,939 - INFO - Now Saving..
+2025-06-06 16:34:13,439 - INFO - Epoch 8/200, Epoch time: 14.39s, Test accuracy: 76.72%
+2025-06-06 16:34:27,012 - INFO - Training Epoch 9/200: 100%|█| 391/391 [00:13<00:00, 28.88it/s, Train_loss=0.580, Train_accuracy=80.0
+2025-06-06 16:34:28,522 - INFO - Testing Epoch 9/200: 100%|███████| 100/100 [00:01<00:00, 66.30it/s, Test_loss=0.662, Te_acc=77.310%]
+2025-06-06 16:34:28,522 - INFO - Now Saving..
+2025-06-06 16:34:29,024 - INFO - Epoch 9/200, Epoch time: 15.05s, Test accuracy: 77.31%
+2025-06-06 16:34:42,991 - INFO - Training Epoch 10/200: 100%|█| 391/391 [00:13<00:00, 28.00it/s, Train_loss=0.536, Train_accuracy=81.
+2025-06-06 16:34:44,846 - INFO - Testing Epoch 10/200: 100%|██████| 100/100 [00:01<00:00, 53.95it/s, Test_loss=0.703, Te_acc=77.000%]
+2025-06-06 16:34:44,847 - INFO - Epoch 10/200, Epoch time: 15.82s, Test accuracy: 77.00%
+2025-06-06 16:34:57,818 - INFO - Training Epoch 11/200: 100%|█| 391/391 [00:12<00:00, 30.14it/s, Train_loss=0.519, Train_accuracy=82.
+2025-06-06 16:34:59,762 - INFO - Testing Epoch 11/200: 100%|██████| 100/100 [00:01<00:00, 51.52it/s, Test_loss=0.582, Te_acc=80.170%]
+2025-06-06 16:34:59,762 - INFO - Now Saving..
+2025-06-06 16:35:00,310 - INFO - Epoch 11/200, Epoch time: 14.92s, Test accuracy: 80.17%
+2025-06-06 16:35:13,850 - INFO - Training Epoch 12/200: 100%|█| 391/391 [00:13<00:00, 28.88it/s, Train_loss=0.487, Train_accuracy=83.
+2025-06-06 16:35:15,389 - INFO - Testing Epoch 12/200: 100%|██████| 100/100 [00:01<00:00, 65.04it/s, Test_loss=0.781, Te_acc=75.530%]
+2025-06-06 16:35:15,390 - INFO - Epoch 12/200, Epoch time: 15.08s, Test accuracy: 75.53%
+2025-06-06 16:35:28,620 - INFO - Training Epoch 13/200: 100%|█| 391/391 [00:13<00:00, 29.56it/s, Train_loss=0.467, Train_accuracy=83.
+2025-06-06 16:35:30,149 - INFO - Testing Epoch 13/200: 100%|██████| 100/100 [00:01<00:00, 65.47it/s, Test_loss=0.659, Te_acc=78.890%]
+2025-06-06 16:35:30,150 - INFO - Epoch 13/200, Epoch time: 14.76s, Test accuracy: 78.89%
+2025-06-06 16:35:43,488 - INFO - Training Epoch 14/200: 100%|█| 391/391 [00:13<00:00, 29.32it/s, Train_loss=0.457, Train_accuracy=84.
+2025-06-06 16:35:45,016 - INFO - Testing Epoch 14/200: 100%|██████| 100/100 [00:01<00:00, 65.54it/s, Test_loss=0.770, Te_acc=75.950%]
+2025-06-06 16:35:45,016 - INFO - Epoch 14/200, Epoch time: 14.87s, Test accuracy: 75.95%
+2025-06-06 16:35:57,663 - INFO - Training Epoch 15/200: 100%|█| 391/391 [00:12<00:00, 30.92it/s, Train_loss=0.443, Train_accuracy=84.
+2025-06-06 16:35:59,185 - INFO - Testing Epoch 15/200: 100%|██████| 100/100 [00:01<00:00, 65.80it/s, Test_loss=0.576, Te_acc=81.520%]
+2025-06-06 16:35:59,185 - INFO - Now Saving..
+2025-06-06 16:35:59,679 - INFO - Epoch 15/200, Epoch time: 14.17s, Test accuracy: 81.52%
+2025-06-06 16:36:13,184 - INFO - Training Epoch 16/200: 100%|█| 391/391 [00:13<00:00, 28.96it/s, Train_loss=0.434, Train_accuracy=85.
+2025-06-06 16:36:14,707 - INFO - Testing Epoch 16/200: 100%|██████| 100/100 [00:01<00:00, 65.74it/s, Test_loss=0.518, Te_acc=82.600%]
+2025-06-06 16:36:14,708 - INFO - Now Saving..
+2025-06-06 16:36:15,234 - INFO - Epoch 16/200, Epoch time: 15.03s, Test accuracy: 82.60%
+2025-06-06 16:36:27,629 - INFO - Training Epoch 17/200: 100%|█| 391/391 [00:12<00:00, 31.55it/s, Train_loss=0.425, Train_accuracy=85.
+2025-06-06 16:36:29,163 - INFO - Testing Epoch 17/200: 100%|██████| 100/100 [00:01<00:00, 65.30it/s, Test_loss=0.556, Te_acc=81.530%]
+2025-06-06 16:36:29,163 - INFO - Epoch 17/200, Epoch time: 13.93s, Test accuracy: 81.53%
+2025-06-06 16:36:42,336 - INFO - Training Epoch 18/200: 100%|█| 391/391 [00:13<00:00, 29.68it/s, Train_loss=0.416, Train_accuracy=85.
+2025-06-06 16:36:43,907 - INFO - Testing Epoch 18/200: 100%|██████| 100/100 [00:01<00:00, 63.72it/s, Test_loss=0.495, Te_acc=83.740%]
+2025-06-06 16:36:43,907 - INFO - Now Saving..
+2025-06-06 16:36:44,420 - INFO - Epoch 18/200, Epoch time: 14.74s, Test accuracy: 83.74%
+2025-06-06 16:36:57,299 - INFO - Training Epoch 19/200: 100%|█| 391/391 [00:12<00:00, 30.36it/s, Train_loss=0.405, Train_accuracy=86.
+2025-06-06 16:36:58,819 - INFO - Testing Epoch 19/200: 100%|██████| 100/100 [00:01<00:00, 65.87it/s, Test_loss=0.556, Te_acc=81.010%]
+2025-06-06 16:36:58,819 - INFO - Epoch 19/200, Epoch time: 14.40s, Test accuracy: 81.01%
+2025-06-06 16:37:11,973 - INFO - Training Epoch 20/200: 100%|█| 391/391 [00:13<00:00, 29.73it/s, Train_loss=0.399, Train_accuracy=86.
+2025-06-06 16:37:13,485 - INFO - Testing Epoch 20/200: 100%|██████| 100/100 [00:01<00:00, 66.22it/s, Test_loss=0.620, Te_acc=79.720%]
+2025-06-06 16:37:13,485 - INFO - Epoch 20/200, Epoch time: 14.67s, Test accuracy: 79.72%
+2025-06-06 16:37:26,868 - INFO - Training Epoch 21/200: 100%|█| 391/391 [00:13<00:00, 29.22it/s, Train_loss=0.389, Train_accuracy=86.
+2025-06-06 16:37:28,386 - INFO - Testing Epoch 21/200: 100%|██████| 100/100 [00:01<00:00, 65.95it/s, Test_loss=0.521, Te_acc=83.070%]
+2025-06-06 16:37:28,386 - INFO - Epoch 21/200, Epoch time: 14.90s, Test accuracy: 83.07%
+2025-06-06 16:37:41,526 - INFO - Training Epoch 22/200: 100%|█| 391/391 [00:13<00:00, 29.76it/s, Train_loss=0.385, Train_accuracy=86.
+2025-06-06 16:37:43,072 - INFO - Testing Epoch 22/200: 100%|██████| 100/100 [00:01<00:00, 64.74it/s, Test_loss=0.648, Te_acc=78.950%]
+2025-06-06 16:37:43,073 - INFO - Epoch 22/200, Epoch time: 14.69s, Test accuracy: 78.95%
+2025-06-06 16:37:56,351 - INFO - Training Epoch 23/200: 100%|█| 391/391 [00:13<00:00, 29.45it/s, Train_loss=0.380, Train_accuracy=87.
+2025-06-06 16:37:57,862 - INFO - Testing Epoch 23/200: 100%|██████| 100/100 [00:01<00:00, 66.29it/s, Test_loss=0.470, Te_acc=83.840%]
+2025-06-06 16:37:57,862 - INFO - Now Saving..
+2025-06-06 16:37:58,350 - INFO - Epoch 23/200, Epoch time: 14.79s, Test accuracy: 83.84%
+2025-06-06 16:38:10,625 - INFO - Training Epoch 24/200: 100%|█| 391/391 [00:12<00:00, 31.86it/s, Train_loss=0.376, Train_accuracy=87.
+2025-06-06 16:38:12,145 - INFO - Testing Epoch 24/200: 100%|██████| 100/100 [00:01<00:00, 65.85it/s, Test_loss=0.509, Te_acc=83.580%]
+2025-06-06 16:38:12,145 - INFO - Epoch 24/200, Epoch time: 13.79s, Test accuracy: 83.58%
+2025-06-06 16:38:25,566 - INFO - Training Epoch 25/200: 100%|█| 391/391 [00:13<00:00, 29.13it/s, Train_loss=0.368, Train_accuracy=87.
+2025-06-06 16:38:27,064 - INFO - Testing Epoch 25/200: 100%|██████| 100/100 [00:01<00:00, 66.86it/s, Test_loss=0.584, Te_acc=81.090%]
+2025-06-06 16:38:27,064 - INFO - Epoch 25/200, Epoch time: 14.92s, Test accuracy: 81.09%
+2025-06-06 16:38:40,547 - INFO - Training Epoch 26/200: 100%|█| 391/391 [00:13<00:00, 29.00it/s, Train_loss=0.367, Train_accuracy=87.
+2025-06-06 16:38:42,066 - INFO - Testing Epoch 26/200: 100%|██████| 100/100 [00:01<00:00, 65.97it/s, Test_loss=0.600, Te_acc=79.920%]
+2025-06-06 16:38:42,066 - INFO - Epoch 26/200, Epoch time: 15.00s, Test accuracy: 79.92%
+2025-06-06 16:38:55,464 - INFO - Training Epoch 27/200: 100%|█| 391/391 [00:13<00:00, 29.18it/s, Train_loss=0.366, Train_accuracy=87.
+2025-06-06 16:38:57,000 - INFO - Testing Epoch 27/200: 100%|██████| 100/100 [00:01<00:00, 65.22it/s, Test_loss=0.450, Te_acc=84.650%]
+2025-06-06 16:38:57,000 - INFO - Now Saving..
+2025-06-06 16:38:57,499 - INFO - Epoch 27/200, Epoch time: 14.93s, Test accuracy: 84.65%
+2025-06-06 16:39:10,984 - INFO - Training Epoch 28/200: 100%|█| 391/391 [00:13<00:00, 29.00it/s, Train_loss=0.360, Train_accuracy=87.
+2025-06-06 16:39:12,509 - INFO - Testing Epoch 28/200: 100%|██████| 100/100 [00:01<00:00, 65.65it/s, Test_loss=0.819, Te_acc=75.850%]
+2025-06-06 16:39:12,509 - INFO - Epoch 28/200, Epoch time: 15.01s, Test accuracy: 75.85%
+2025-06-06 16:39:24,870 - INFO - Training Epoch 29/200: 100%|█| 391/391 [00:12<00:00, 31.63it/s, Train_loss=0.358, Train_accuracy=87.
+2025-06-06 16:39:26,396 - INFO - Testing Epoch 29/200: 100%|██████| 100/100 [00:01<00:00, 65.61it/s, Test_loss=0.556, Te_acc=81.800%]
+2025-06-06 16:39:26,396 - INFO - Epoch 29/200, Epoch time: 13.89s, Test accuracy: 81.80%
+2025-06-06 16:39:39,458 - INFO - Training Epoch 30/200: 100%|█| 391/391 [00:13<00:00, 29.94it/s, Train_loss=0.351, Train_accuracy=87.
+2025-06-06 16:39:40,979 - INFO - Testing Epoch 30/200: 100%|██████| 100/100 [00:01<00:00, 65.80it/s, Test_loss=0.424, Te_acc=85.710%]
+2025-06-06 16:39:40,980 - INFO - Now Saving..
+2025-06-06 16:39:41,575 - INFO - Epoch 30/200, Epoch time: 14.58s, Test accuracy: 85.71%
+2025-06-06 16:39:54,735 - INFO - Training Epoch 31/200: 100%|█| 391/391 [00:13<00:00, 29.71it/s, Train_loss=0.352, Train_accuracy=88.
+2025-06-06 16:39:56,252 - INFO - Testing Epoch 31/200: 100%|██████| 100/100 [00:01<00:00, 65.99it/s, Test_loss=0.467, Te_acc=84.560%]
+2025-06-06 16:39:56,253 - INFO - Epoch 31/200, Epoch time: 14.68s, Test accuracy: 84.56%
+2025-06-06 16:40:09,464 - INFO - Training Epoch 32/200: 100%|█| 391/391 [00:13<00:00, 29.60it/s, Train_loss=0.346, Train_accuracy=88.
+2025-06-06 16:40:10,992 - INFO - Testing Epoch 32/200: 100%|██████| 100/100 [00:01<00:00, 65.54it/s, Test_loss=0.461, Te_acc=84.420%]
+2025-06-06 16:40:10,992 - INFO - Epoch 32/200, Epoch time: 14.74s, Test accuracy: 84.42%
+2025-06-06 16:40:24,368 - INFO - Training Epoch 33/200: 100%|█| 391/391 [00:13<00:00, 29.23it/s, Train_loss=0.345, Train_accuracy=88.
+2025-06-06 16:40:25,895 - INFO - Testing Epoch 33/200: 100%|██████| 100/100 [00:01<00:00, 65.57it/s, Test_loss=0.507, Te_acc=83.280%]
+2025-06-06 16:40:25,896 - INFO - Epoch 33/200, Epoch time: 14.90s, Test accuracy: 83.28%
+2025-06-06 16:40:39,252 - INFO - Training Epoch 34/200: 100%|█| 391/391 [00:13<00:00, 29.28it/s, Train_loss=0.349, Train_accuracy=88.
+2025-06-06 16:40:40,776 - INFO - Testing Epoch 34/200: 100%|██████| 100/100 [00:01<00:00, 65.72it/s, Test_loss=0.847, Te_acc=75.290%]
+2025-06-06 16:40:40,776 - INFO - Epoch 34/200, Epoch time: 14.88s, Test accuracy: 75.29%
+2025-06-06 16:40:54,099 - INFO - Training Epoch 35/200: 100%|█| 391/391 [00:13<00:00, 29.35it/s, Train_loss=0.343, Train_accuracy=88.
+2025-06-06 16:40:55,676 - INFO - Testing Epoch 35/200: 100%|██████| 100/100 [00:01<00:00, 63.46it/s, Test_loss=0.411, Te_acc=86.300%]
+2025-06-06 16:40:55,677 - INFO - Now Saving..
+2025-06-06 16:40:56,208 - INFO - Epoch 35/200, Epoch time: 14.90s, Test accuracy: 86.30%
+2025-06-06 16:41:09,706 - INFO - Training Epoch 36/200: 100%|█| 391/391 [00:13<00:00, 28.97it/s, Train_loss=0.344, Train_accuracy=88.
+2025-06-06 16:41:11,241 - INFO - Testing Epoch 36/200: 100%|██████| 100/100 [00:01<00:00, 65.21it/s, Test_loss=0.398, Te_acc=86.880%]
+2025-06-06 16:41:11,241 - INFO - Now Saving..
+2025-06-06 16:41:11,780 - INFO - Epoch 36/200, Epoch time: 15.03s, Test accuracy: 86.88%
+2025-06-06 16:41:25,238 - INFO - Training Epoch 37/200: 100%|█| 391/391 [00:13<00:00, 29.06it/s, Train_loss=0.338, Train_accuracy=88.
+2025-06-06 16:41:26,762 - INFO - Testing Epoch 37/200: 100%|██████| 100/100 [00:01<00:00, 65.67it/s, Test_loss=0.518, Te_acc=83.090%]
+2025-06-06 16:41:26,762 - INFO - Epoch 37/200, Epoch time: 14.98s, Test accuracy: 83.09%
+2025-06-06 16:41:39,855 - INFO - Training Epoch 38/200: 100%|█| 391/391 [00:13<00:00, 29.87it/s, Train_loss=0.335, Train_accuracy=88.
+2025-06-06 16:41:41,391 - INFO - Testing Epoch 38/200: 100%|██████| 100/100 [00:01<00:00, 65.18it/s, Test_loss=0.510, Te_acc=83.470%]
+2025-06-06 16:41:41,391 - INFO - Epoch 38/200, Epoch time: 14.63s, Test accuracy: 83.47%
+2025-06-06 16:41:54,604 - INFO - Training Epoch 39/200: 100%|█| 391/391 [00:13<00:00, 29.59it/s, Train_loss=0.334, Train_accuracy=88.
+2025-06-06 16:41:56,189 - INFO - Testing Epoch 39/200: 100%|██████| 100/100 [00:01<00:00, 63.15it/s, Test_loss=0.826, Te_acc=74.400%]
+2025-06-06 16:41:56,190 - INFO - Epoch 39/200, Epoch time: 14.80s, Test accuracy: 74.40%
+2025-06-06 16:42:09,326 - INFO - Training Epoch 40/200: 100%|█| 391/391 [00:13<00:00, 29.77it/s, Train_loss=0.335, Train_accuracy=88.
+2025-06-06 16:42:10,835 - INFO - Testing Epoch 40/200: 100%|██████| 100/100 [00:01<00:00, 66.35it/s, Test_loss=0.483, Te_acc=83.860%]
+2025-06-06 16:42:10,836 - INFO - Epoch 40/200, Epoch time: 14.65s, Test accuracy: 83.86%
+2025-06-06 16:42:24,328 - INFO - Training Epoch 41/200: 100%|█| 391/391 [00:13<00:00, 28.98it/s, Train_loss=0.330, Train_accuracy=88.
+2025-06-06 16:42:25,887 - INFO - Testing Epoch 41/200: 100%|██████| 100/100 [00:01<00:00, 64.21it/s, Test_loss=0.619, Te_acc=80.310%]
+2025-06-06 16:42:25,888 - INFO - Epoch 41/200, Epoch time: 15.05s, Test accuracy: 80.31%
+2025-06-06 16:42:39,397 - INFO - Training Epoch 42/200: 100%|█| 391/391 [00:13<00:00, 28.95it/s, Train_loss=0.333, Train_accuracy=88.
+2025-06-06 16:42:40,941 - INFO - Testing Epoch 42/200: 100%|██████| 100/100 [00:01<00:00, 64.84it/s, Test_loss=0.567, Te_acc=82.250%]
+2025-06-06 16:42:40,942 - INFO - Epoch 42/200, Epoch time: 15.05s, Test accuracy: 82.25%
+2025-06-06 16:42:54,384 - INFO - Training Epoch 43/200: 100%|█| 391/391 [00:13<00:00, 29.09it/s, Train_loss=0.207, Train_accuracy=93.
+2025-06-06 16:42:55,901 - INFO - Testing Epoch 43/200: 100%|██████| 100/100 [00:01<00:00, 66.00it/s, Test_loss=0.285, Te_acc=90.580%]
+2025-06-06 16:42:55,902 - INFO - Now Saving..
+2025-06-06 16:42:56,417 - INFO - Epoch 43/200, Epoch time: 14.96s, Test accuracy: 90.58%
+2025-06-06 16:43:08,845 - INFO - Training Epoch 44/200: 100%|█| 391/391 [00:12<00:00, 31.47it/s, Train_loss=0.195, Train_accuracy=93.
+2025-06-06 16:43:10,355 - INFO - Testing Epoch 44/200: 100%|██████| 100/100 [00:01<00:00, 66.32it/s, Test_loss=0.321, Te_acc=89.490%]
+2025-06-06 16:43:10,355 - INFO - Epoch 44/200, Epoch time: 13.94s, Test accuracy: 89.49%
+2025-06-06 16:43:23,731 - INFO - Training Epoch 45/200: 100%|█| 391/391 [00:13<00:00, 29.23it/s, Train_loss=0.194, Train_accuracy=93.
+2025-06-06 16:43:25,297 - INFO - Testing Epoch 45/200: 100%|██████| 100/100 [00:01<00:00, 63.97it/s, Test_loss=0.416, Te_acc=86.930%]
+2025-06-06 16:43:25,297 - INFO - Epoch 45/200, Epoch time: 14.94s, Test accuracy: 86.93%
+2025-06-06 16:43:38,781 - INFO - Training Epoch 46/200: 100%|█| 391/391 [00:13<00:00, 29.00it/s, Train_loss=0.203, Train_accuracy=93.
+2025-06-06 16:43:40,323 - INFO - Testing Epoch 46/200: 100%|██████| 100/100 [00:01<00:00, 64.94it/s, Test_loss=0.383, Te_acc=88.090%]
+2025-06-06 16:43:40,323 - INFO - Epoch 46/200, Epoch time: 15.03s, Test accuracy: 88.09%
+2025-06-06 16:43:53,195 - INFO - Training Epoch 47/200: 100%|█| 391/391 [00:12<00:00, 30.38it/s, Train_loss=0.205, Train_accuracy=92.
+2025-06-06 16:43:54,729 - INFO - Testing Epoch 47/200: 100%|██████| 100/100 [00:01<00:00, 65.26it/s, Test_loss=0.369, Te_acc=88.220%]
+2025-06-06 16:43:54,730 - INFO - Epoch 47/200, Epoch time: 14.41s, Test accuracy: 88.22%
+2025-06-06 16:44:07,765 - INFO - Training Epoch 48/200: 100%|█| 391/391 [00:13<00:00, 30.00it/s, Train_loss=0.208, Train_accuracy=92.
+2025-06-06 16:44:09,281 - INFO - Testing Epoch 48/200: 100%|██████| 100/100 [00:01<00:00, 66.04it/s, Test_loss=0.292, Te_acc=90.490%]
+2025-06-06 16:44:09,282 - INFO - Epoch 48/200, Epoch time: 14.55s, Test accuracy: 90.49%
+2025-06-06 16:44:21,631 - INFO - Training Epoch 49/200: 100%|█| 391/391 [00:12<00:00, 31.66it/s, Train_loss=0.208, Train_accuracy=92.
+2025-06-06 16:44:23,179 - INFO - Testing Epoch 49/200: 100%|██████| 100/100 [00:01<00:00, 64.65it/s, Test_loss=0.419, Te_acc=86.890%]
+2025-06-06 16:44:23,179 - INFO - Epoch 49/200, Epoch time: 13.90s, Test accuracy: 86.89%
+2025-06-06 16:44:36,168 - INFO - Training Epoch 50/200: 100%|█| 391/391 [00:12<00:00, 30.11it/s, Train_loss=0.209, Train_accuracy=92.
+2025-06-06 16:44:37,771 - INFO - Testing Epoch 50/200: 100%|██████| 100/100 [00:01<00:00, 62.41it/s, Test_loss=0.436, Te_acc=86.270%]
+2025-06-06 16:44:37,772 - INFO - Epoch 50/200, Epoch time: 14.59s, Test accuracy: 86.27%
+2025-06-06 16:44:50,820 - INFO - Training Epoch 51/200: 100%|█| 391/391 [00:13<00:00, 29.97it/s, Train_loss=0.207, Train_accuracy=92.
+2025-06-06 16:44:52,321 - INFO - Testing Epoch 51/200: 100%|██████| 100/100 [00:01<00:00, 66.68it/s, Test_loss=0.392, Te_acc=87.570%]
+2025-06-06 16:44:52,321 - INFO - Epoch 51/200, Epoch time: 14.55s, Test accuracy: 87.57%
+2025-06-06 16:45:05,733 - INFO - Training Epoch 52/200: 100%|█| 391/391 [00:13<00:00, 29.16it/s, Train_loss=0.206, Train_accuracy=92.
+2025-06-06 16:45:07,243 - INFO - Testing Epoch 52/200: 100%|██████| 100/100 [00:01<00:00, 66.25it/s, Test_loss=0.344, Te_acc=88.740%]
+2025-06-06 16:45:07,244 - INFO - Epoch 52/200, Epoch time: 14.92s, Test accuracy: 88.74%
+2025-06-06 16:45:20,525 - INFO - Training Epoch 53/200: 100%|█| 391/391 [00:13<00:00, 29.44it/s, Train_loss=0.209, Train_accuracy=92.
+2025-06-06 16:45:22,053 - INFO - Testing Epoch 53/200: 100%|██████| 100/100 [00:01<00:00, 65.50it/s, Test_loss=0.359, Te_acc=88.700%]
+2025-06-06 16:45:22,054 - INFO - Epoch 53/200, Epoch time: 14.81s, Test accuracy: 88.70%
+2025-06-06 16:45:35,305 - INFO - Training Epoch 54/200: 100%|█| 391/391 [00:13<00:00, 29.51it/s, Train_loss=0.119, Train_accuracy=95.
+2025-06-06 16:45:36,815 - INFO - Testing Epoch 54/200: 100%|██████| 100/100 [00:01<00:00, 66.33it/s, Test_loss=0.245, Te_acc=91.990%]
+2025-06-06 16:45:36,816 - INFO - Now Saving..
+2025-06-06 16:45:37,347 - INFO - Epoch 54/200, Epoch time: 14.76s, Test accuracy: 91.99%
+2025-06-06 16:45:50,735 - INFO - Training Epoch 55/200: 100%|█| 391/391 [00:13<00:00, 29.21it/s, Train_loss=0.100, Train_accuracy=96.
+2025-06-06 16:45:52,263 - INFO - Testing Epoch 55/200: 100%|██████| 100/100 [00:01<00:00, 65.55it/s, Test_loss=0.257, Te_acc=91.750%]
+2025-06-06 16:45:52,263 - INFO - Epoch 55/200, Epoch time: 14.92s, Test accuracy: 91.75%
+2025-06-06 16:46:05,894 - INFO - Training Epoch 56/200: 100%|█| 391/391 [00:13<00:00, 28.69it/s, Train_loss=0.097, Train_accuracy=96.
+2025-06-06 16:46:07,432 - INFO - Testing Epoch 56/200: 100%|██████| 100/100 [00:01<00:00, 65.05it/s, Test_loss=0.285, Te_acc=91.460%]
+2025-06-06 16:46:07,433 - INFO - Epoch 56/200, Epoch time: 15.17s, Test accuracy: 91.46%
+2025-06-06 16:46:20,909 - INFO - Training Epoch 57/200: 100%|█| 391/391 [00:13<00:00, 29.01it/s, Train_loss=0.097, Train_accuracy=96.
+2025-06-06 16:46:22,460 - INFO - Testing Epoch 57/200: 100%|██████| 100/100 [00:01<00:00, 64.58it/s, Test_loss=0.250, Te_acc=92.040%]
+2025-06-06 16:46:22,460 - INFO - Now Saving..
+2025-06-06 16:46:23,019 - INFO - Epoch 57/200, Epoch time: 15.03s, Test accuracy: 92.04%
+2025-06-06 16:46:36,420 - INFO - Training Epoch 58/200: 100%|█| 391/391 [00:13<00:00, 29.18it/s, Train_loss=0.098, Train_accuracy=96.
+2025-06-06 16:46:37,951 - INFO - Testing Epoch 58/200: 100%|██████| 100/100 [00:01<00:00, 65.42it/s, Test_loss=0.260, Te_acc=92.180%]
+2025-06-06 16:46:37,951 - INFO - Now Saving..
+2025-06-06 16:46:38,460 - INFO - Epoch 58/200, Epoch time: 14.93s, Test accuracy: 92.18%
+2025-06-06 16:46:51,552 - INFO - Training Epoch 59/200: 100%|█| 391/391 [00:13<00:00, 29.87it/s, Train_loss=0.102, Train_accuracy=96.
+2025-06-06 16:46:53,084 - INFO - Testing Epoch 59/200: 100%|██████| 100/100 [00:01<00:00, 65.33it/s, Test_loss=0.282, Te_acc=91.670%]
+2025-06-06 16:46:53,084 - INFO - Epoch 59/200, Epoch time: 14.62s, Test accuracy: 91.67%
+2025-06-06 16:47:05,578 - INFO - Training Epoch 60/200: 100%|█| 391/391 [00:12<00:00, 31.30it/s, Train_loss=0.108, Train_accuracy=96.
+2025-06-06 16:47:07,094 - INFO - Testing Epoch 60/200: 100%|██████| 100/100 [00:01<00:00, 66.05it/s, Test_loss=0.286, Te_acc=91.330%]
+2025-06-06 16:47:07,094 - INFO - Epoch 60/200, Epoch time: 14.01s, Test accuracy: 91.33%
+2025-06-06 16:47:19,414 - INFO - Training Epoch 61/200: 100%|█| 391/391 [00:12<00:00, 31.74it/s, Train_loss=0.104, Train_accuracy=96.
+2025-06-06 16:47:20,910 - INFO - Testing Epoch 61/200: 100%|██████| 100/100 [00:01<00:00, 66.88it/s, Test_loss=0.284, Te_acc=91.250%]
+2025-06-06 16:47:20,911 - INFO - Epoch 61/200, Epoch time: 13.82s, Test accuracy: 91.25%
+2025-06-06 16:47:34,228 - INFO - Training Epoch 62/200: 100%|█| 391/391 [00:13<00:00, 29.36it/s, Train_loss=0.113, Train_accuracy=96.
+2025-06-06 16:47:35,737 - INFO - Testing Epoch 62/200: 100%|██████| 100/100 [00:01<00:00, 66.36it/s, Test_loss=0.288, Te_acc=91.040%]
+2025-06-06 16:47:35,737 - INFO - Epoch 62/200, Epoch time: 14.83s, Test accuracy: 91.04%
+2025-06-06 16:47:49,013 - INFO - Training Epoch 63/200: 100%|█| 391/391 [00:13<00:00, 29.45it/s, Train_loss=0.112, Train_accuracy=96.
+2025-06-06 16:47:50,535 - INFO - Testing Epoch 63/200: 100%|██████| 100/100 [00:01<00:00, 65.78it/s, Test_loss=0.318, Te_acc=90.500%]
+2025-06-06 16:47:50,535 - INFO - Epoch 63/200, Epoch time: 14.80s, Test accuracy: 90.50%
+2025-06-06 16:48:03,986 - INFO - Training Epoch 64/200: 100%|█| 391/391 [00:13<00:00, 29.07it/s, Train_loss=0.110, Train_accuracy=96.
+2025-06-06 16:48:05,497 - INFO - Testing Epoch 64/200: 100%|██████| 100/100 [00:01<00:00, 66.23it/s, Test_loss=0.313, Te_acc=90.730%]
+2025-06-06 16:48:05,498 - INFO - Epoch 64/200, Epoch time: 14.96s, Test accuracy: 90.73%
+2025-06-06 16:48:18,088 - INFO - Training Epoch 65/200: 100%|█| 391/391 [00:12<00:00, 31.06it/s, Train_loss=0.055, Train_accuracy=98.
+2025-06-06 16:48:19,651 - INFO - Testing Epoch 65/200: 100%|██████| 100/100 [00:01<00:00, 64.02it/s, Test_loss=0.204, Te_acc=93.690%]
+2025-06-06 16:48:19,652 - INFO - Now Saving..
+2025-06-06 16:48:20,182 - INFO - Epoch 65/200, Epoch time: 14.15s, Test accuracy: 93.69%
+2025-06-06 16:48:33,547 - INFO - Training Epoch 66/200: 100%|█| 391/391 [00:13<00:00, 29.26it/s, Train_loss=0.039, Train_accuracy=98.
+2025-06-06 16:48:35,091 - INFO - Testing Epoch 66/200: 100%|██████| 100/100 [00:01<00:00, 64.86it/s, Test_loss=0.233, Te_acc=93.150%]
+2025-06-06 16:48:35,092 - INFO - Epoch 66/200, Epoch time: 14.91s, Test accuracy: 93.15%
+2025-06-06 16:48:48,547 - INFO - Training Epoch 67/200: 100%|█| 391/391 [00:13<00:00, 29.06it/s, Train_loss=0.034, Train_accuracy=98.
+2025-06-06 16:48:50,088 - INFO - Testing Epoch 67/200: 100%|██████| 100/100 [00:01<00:00, 65.00it/s, Test_loss=0.227, Te_acc=93.580%]
+2025-06-06 16:48:50,088 - INFO - Epoch 67/200, Epoch time: 15.00s, Test accuracy: 93.58%
+2025-06-06 16:49:03,584 - INFO - Training Epoch 68/200: 100%|█| 391/391 [00:13<00:00, 28.97it/s, Train_loss=0.033, Train_accuracy=98.
+2025-06-06 16:49:05,113 - INFO - Testing Epoch 68/200: 100%|██████| 100/100 [00:01<00:00, 65.47it/s, Test_loss=0.229, Te_acc=93.570%]
+2025-06-06 16:49:05,113 - INFO - Epoch 68/200, Epoch time: 15.03s, Test accuracy: 93.57%
+2025-06-06 16:49:17,445 - INFO - Training Epoch 69/200: 100%|█| 391/391 [00:12<00:00, 31.71it/s, Train_loss=0.036, Train_accuracy=98.
+2025-06-06 16:49:18,951 - INFO - Testing Epoch 69/200: 100%|██████| 100/100 [00:01<00:00, 66.42it/s, Test_loss=0.253, Te_acc=92.980%]
+2025-06-06 16:49:18,952 - INFO - Epoch 69/200, Epoch time: 13.84s, Test accuracy: 92.98%
+2025-06-06 16:49:32,316 - INFO - Training Epoch 70/200: 100%|█| 391/391 [00:13<00:00, 29.26it/s, Train_loss=0.036, Train_accuracy=98.
+2025-06-06 16:49:33,826 - INFO - Testing Epoch 70/200: 100%|██████| 100/100 [00:01<00:00, 66.28it/s, Test_loss=0.238, Te_acc=93.320%]
+2025-06-06 16:49:33,826 - INFO - Epoch 70/200, Epoch time: 14.87s, Test accuracy: 93.32%
+2025-06-06 16:49:47,055 - INFO - Training Epoch 71/200: 100%|█| 391/391 [00:13<00:00, 29.56it/s, Train_loss=0.040, Train_accuracy=98.
+2025-06-06 16:49:48,582 - INFO - Testing Epoch 71/200: 100%|██████| 100/100 [00:01<00:00, 65.59it/s, Test_loss=0.244, Te_acc=93.250%]
+2025-06-06 16:49:48,582 - INFO - Epoch 71/200, Epoch time: 14.76s, Test accuracy: 93.25%
+2025-06-06 16:50:01,753 - INFO - Training Epoch 72/200: 100%|█| 391/391 [00:13<00:00, 29.69it/s, Train_loss=0.038, Train_accuracy=98.
+2025-06-06 16:50:03,288 - INFO - Testing Epoch 72/200: 100%|██████| 100/100 [00:01<00:00, 65.19it/s, Test_loss=0.243, Te_acc=93.260%]
+2025-06-06 16:50:03,288 - INFO - Epoch 72/200, Epoch time: 14.71s, Test accuracy: 93.26%
+2025-06-06 16:50:16,636 - INFO - Training Epoch 73/200: 100%|█| 391/391 [00:13<00:00, 29.29it/s, Train_loss=0.040, Train_accuracy=98.
+2025-06-06 16:50:18,166 - INFO - Testing Epoch 73/200: 100%|██████| 100/100 [00:01<00:00, 65.45it/s, Test_loss=0.248, Te_acc=92.890%]
+2025-06-06 16:50:18,166 - INFO - Epoch 73/200, Epoch time: 14.88s, Test accuracy: 92.89%
+2025-06-06 16:50:31,431 - INFO - Training Epoch 74/200: 100%|█| 391/391 [00:13<00:00, 29.48it/s, Train_loss=0.041, Train_accuracy=98.
+2025-06-06 16:50:32,941 - INFO - Testing Epoch 74/200: 100%|██████| 100/100 [00:01<00:00, 66.27it/s, Test_loss=0.239, Te_acc=93.170%]
+2025-06-06 16:50:32,941 - INFO - Epoch 74/200, Epoch time: 14.77s, Test accuracy: 93.17%
+2025-06-06 16:50:45,277 - INFO - Training Epoch 75/200: 100%|█| 391/391 [00:12<00:00, 31.70it/s, Train_loss=0.040, Train_accuracy=98.
+2025-06-06 16:50:46,830 - INFO - Testing Epoch 75/200: 100%|██████| 100/100 [00:01<00:00, 64.49it/s, Test_loss=0.271, Te_acc=92.190%]
+2025-06-06 16:50:46,830 - INFO - Epoch 75/200, Epoch time: 13.89s, Test accuracy: 92.19%
+2025-06-06 16:51:00,241 - INFO - Training Epoch 76/200: 100%|█| 391/391 [00:13<00:00, 29.16it/s, Train_loss=0.020, Train_accuracy=99.
+2025-06-06 16:51:01,767 - INFO - Testing Epoch 76/200: 100%|██████| 100/100 [00:01<00:00, 65.60it/s, Test_loss=0.219, Te_acc=94.310%]
+2025-06-06 16:51:01,767 - INFO - Now Saving..
+2025-06-06 16:51:02,290 - INFO - Epoch 76/200, Epoch time: 14.94s, Test accuracy: 94.31%
+2025-06-06 16:51:15,593 - INFO - Training Epoch 77/200: 100%|█| 391/391 [00:13<00:00, 29.40it/s, Train_loss=0.014, Train_accuracy=99.
+2025-06-06 16:51:17,090 - INFO - Testing Epoch 77/200: 100%|██████| 100/100 [00:01<00:00, 66.86it/s, Test_loss=0.221, Te_acc=94.230%]
+2025-06-06 16:51:17,090 - INFO - Epoch 77/200, Epoch time: 14.80s, Test accuracy: 94.23%
+2025-06-06 16:51:30,142 - INFO - Training Epoch 78/200: 100%|█| 391/391 [00:13<00:00, 29.96it/s, Train_loss=0.011, Train_accuracy=99.
+2025-06-06 16:51:31,627 - INFO - Testing Epoch 78/200: 100%|██████| 100/100 [00:01<00:00, 67.41it/s, Test_loss=0.222, Te_acc=94.130%]
+2025-06-06 16:51:31,628 - INFO - Epoch 78/200, Epoch time: 14.54s, Test accuracy: 94.13%
+2025-06-06 16:51:44,553 - INFO - Training Epoch 79/200: 100%|█| 391/391 [00:12<00:00, 30.25it/s, Train_loss=0.009, Train_accuracy=99.
+2025-06-06 16:51:46,094 - INFO - Testing Epoch 79/200: 100%|██████| 100/100 [00:01<00:00, 64.98it/s, Test_loss=0.228, Te_acc=94.450%]
+2025-06-06 16:51:46,094 - INFO - Now Saving..
+2025-06-06 16:51:46,625 - INFO - Epoch 79/200, Epoch time: 14.47s, Test accuracy: 94.45%
+2025-06-06 16:51:59,875 - INFO - Training Epoch 80/200: 100%|█| 391/391 [00:13<00:00, 29.51it/s, Train_loss=0.010, Train_accuracy=99.
+2025-06-06 16:52:01,393 - INFO - Testing Epoch 80/200: 100%|██████| 100/100 [00:01<00:00, 65.95it/s, Test_loss=0.213, Te_acc=94.460%]
+2025-06-06 16:52:01,393 - INFO - Now Saving..
+2025-06-06 16:52:01,886 - INFO - Epoch 80/200, Epoch time: 14.77s, Test accuracy: 94.46%
+2025-06-06 16:52:14,634 - INFO - Training Epoch 81/200: 100%|█| 391/391 [00:12<00:00, 30.67it/s, Train_loss=0.008, Train_accuracy=99.
+2025-06-06 16:52:16,139 - INFO - Testing Epoch 81/200: 100%|██████| 100/100 [00:01<00:00, 66.50it/s, Test_loss=0.208, Te_acc=94.690%]
+2025-06-06 16:52:16,140 - INFO - Now Saving..
+2025-06-06 16:52:16,661 - INFO - Epoch 81/200, Epoch time: 14.25s, Test accuracy: 94.69%
+2025-06-06 16:52:30,058 - INFO - Training Epoch 82/200: 100%|█| 391/391 [00:13<00:00, 29.19it/s, Train_loss=0.008, Train_accuracy=99.
+2025-06-06 16:52:31,559 - INFO - Testing Epoch 82/200: 100%|██████| 100/100 [00:01<00:00, 66.69it/s, Test_loss=0.211, Te_acc=94.610%]
+2025-06-06 16:52:31,560 - INFO - Epoch 82/200, Epoch time: 14.90s, Test accuracy: 94.61%
+2025-06-06 16:52:45,005 - INFO - Training Epoch 83/200: 100%|█| 391/391 [00:13<00:00, 29.08it/s, Train_loss=0.008, Train_accuracy=99.
+2025-06-06 16:52:46,520 - INFO - Testing Epoch 83/200: 100%|██████| 100/100 [00:01<00:00, 66.08it/s, Test_loss=0.219, Te_acc=94.610%]
+2025-06-06 16:52:46,520 - INFO - Epoch 83/200, Epoch time: 14.96s, Test accuracy: 94.61%
+2025-06-06 16:52:59,645 - INFO - Training Epoch 84/200: 100%|█| 391/391 [00:13<00:00, 29.79it/s, Train_loss=0.009, Train_accuracy=99.
+2025-06-06 16:53:01,207 - INFO - Testing Epoch 84/200: 100%|██████| 100/100 [00:01<00:00, 64.13it/s, Test_loss=0.221, Te_acc=94.670%]
+2025-06-06 16:53:01,207 - INFO - Epoch 84/200, Epoch time: 14.69s, Test accuracy: 94.67%
+2025-06-06 16:53:13,525 - INFO - Training Epoch 85/200: 100%|█| 391/391 [00:12<00:00, 31.74it/s, Train_loss=0.010, Train_accuracy=99.
+2025-06-06 16:53:15,041 - INFO - Testing Epoch 85/200: 100%|██████| 100/100 [00:01<00:00, 66.00it/s, Test_loss=0.247, Te_acc=93.840%]
+2025-06-06 16:53:15,042 - INFO - Epoch 85/200, Epoch time: 13.83s, Test accuracy: 93.84%
+2025-06-06 16:53:28,013 - INFO - Training Epoch 86/200: 100%|█| 391/391 [00:12<00:00, 30.14it/s, Train_loss=0.009, Train_accuracy=99.
+2025-06-06 16:53:29,519 - INFO - Testing Epoch 86/200: 100%|██████| 100/100 [00:01<00:00, 66.47it/s, Test_loss=0.228, Te_acc=94.430%]
+2025-06-06 16:53:29,520 - INFO - Epoch 86/200, Epoch time: 14.48s, Test accuracy: 94.43%
+2025-06-06 16:53:42,988 - INFO - Training Epoch 87/200: 100%|█| 391/391 [00:13<00:00, 29.03it/s, Train_loss=0.006, Train_accuracy=99.
+2025-06-06 16:53:44,527 - INFO - Testing Epoch 87/200: 100%|██████| 100/100 [00:01<00:00, 65.08it/s, Test_loss=0.212, Te_acc=94.700%]
+2025-06-06 16:53:44,527 - INFO - Now Saving..
+2025-06-06 16:53:45,032 - INFO - Epoch 87/200, Epoch time: 15.01s, Test accuracy: 94.70%
+2025-06-06 16:53:58,383 - INFO - Training Epoch 88/200: 100%|█| 391/391 [00:13<00:00, 29.29it/s, Train_loss=0.004, Train_accuracy=99.
+2025-06-06 16:53:59,910 - INFO - Testing Epoch 88/200: 100%|██████| 100/100 [00:01<00:00, 65.55it/s, Test_loss=0.208, Te_acc=94.980%]
+2025-06-06 16:53:59,910 - INFO - Now Saving..
+2025-06-06 16:54:00,432 - INFO - Epoch 88/200, Epoch time: 14.88s, Test accuracy: 94.98%
+2025-06-06 16:54:13,979 - INFO - Training Epoch 89/200: 100%|█| 391/391 [00:13<00:00, 28.87it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:54:15,497 - INFO - Testing Epoch 89/200: 100%|██████| 100/100 [00:01<00:00, 65.92it/s, Test_loss=0.208, Te_acc=94.890%]
+2025-06-06 16:54:15,498 - INFO - Epoch 89/200, Epoch time: 15.07s, Test accuracy: 94.89%
+2025-06-06 16:54:28,907 - INFO - Training Epoch 90/200: 100%|█| 391/391 [00:13<00:00, 29.16it/s, Train_loss=0.004, Train_accuracy=99.
+2025-06-06 16:54:30,435 - INFO - Testing Epoch 90/200: 100%|██████| 100/100 [00:01<00:00, 65.55it/s, Test_loss=0.206, Te_acc=95.060%]
+2025-06-06 16:54:30,436 - INFO - Now Saving..
+2025-06-06 16:54:30,971 - INFO - Epoch 90/200, Epoch time: 14.94s, Test accuracy: 95.06%
+2025-06-06 16:54:44,472 - INFO - Training Epoch 91/200: 100%|█| 391/391 [00:13<00:00, 28.96it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:54:46,002 - INFO - Testing Epoch 91/200: 100%|██████| 100/100 [00:01<00:00, 65.44it/s, Test_loss=0.201, Te_acc=95.120%]
+2025-06-06 16:54:46,003 - INFO - Now Saving..
+2025-06-06 16:54:46,597 - INFO - Epoch 91/200, Epoch time: 15.03s, Test accuracy: 95.12%
+2025-06-06 16:55:00,119 - INFO - Training Epoch 92/200: 100%|█| 391/391 [00:13<00:00, 28.92it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:55:01,644 - INFO - Testing Epoch 92/200: 100%|██████| 100/100 [00:01<00:00, 65.63it/s, Test_loss=0.197, Te_acc=95.130%]
+2025-06-06 16:55:01,645 - INFO - Now Saving..
+2025-06-06 16:55:02,177 - INFO - Epoch 92/200, Epoch time: 15.05s, Test accuracy: 95.13%
+2025-06-06 16:55:14,555 - INFO - Training Epoch 93/200: 100%|█| 391/391 [00:12<00:00, 31.59it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:55:16,082 - INFO - Testing Epoch 93/200: 100%|██████| 100/100 [00:01<00:00, 65.53it/s, Test_loss=0.202, Te_acc=95.150%]
+2025-06-06 16:55:16,083 - INFO - Now Saving..
+2025-06-06 16:55:16,646 - INFO - Epoch 93/200, Epoch time: 13.91s, Test accuracy: 95.15%
+2025-06-06 16:55:29,918 - INFO - Training Epoch 94/200: 100%|█| 391/391 [00:13<00:00, 29.46it/s, Train_loss=0.002, Train_accuracy=99.
+2025-06-06 16:55:31,442 - INFO - Testing Epoch 94/200: 100%|██████| 100/100 [00:01<00:00, 65.70it/s, Test_loss=0.195, Te_acc=95.290%]
+2025-06-06 16:55:31,442 - INFO - Now Saving..
+2025-06-06 16:55:31,966 - INFO - Epoch 94/200, Epoch time: 14.80s, Test accuracy: 95.29%
+2025-06-06 16:55:45,365 - INFO - Training Epoch 95/200: 100%|█| 391/391 [00:13<00:00, 29.19it/s, Train_loss=0.002, Train_accuracy=99.
+2025-06-06 16:55:46,911 - INFO - Testing Epoch 95/200: 100%|██████| 100/100 [00:01<00:00, 64.77it/s, Test_loss=0.199, Te_acc=95.190%]
+2025-06-06 16:55:46,911 - INFO - Epoch 95/200, Epoch time: 14.94s, Test accuracy: 95.19%
+2025-06-06 16:55:59,618 - INFO - Training Epoch 96/200: 100%|█| 391/391 [00:12<00:00, 30.77it/s, Train_loss=0.002, Train_accuracy=99.
+2025-06-06 16:56:01,156 - INFO - Testing Epoch 96/200: 100%|██████| 100/100 [00:01<00:00, 65.09it/s, Test_loss=0.203, Te_acc=95.090%]
+2025-06-06 16:56:01,157 - INFO - Epoch 96/200, Epoch time: 14.25s, Test accuracy: 95.09%
+2025-06-06 16:56:14,403 - INFO - Training Epoch 97/200: 100%|█| 391/391 [00:13<00:00, 29.52it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:56:15,903 - INFO - Testing Epoch 97/200: 100%|██████| 100/100 [00:01<00:00, 66.75it/s, Test_loss=0.200, Te_acc=95.010%]
+2025-06-06 16:56:15,903 - INFO - Epoch 97/200, Epoch time: 14.75s, Test accuracy: 95.01%
+2025-06-06 16:56:29,185 - INFO - Training Epoch 98/200: 100%|█| 391/391 [00:13<00:00, 29.44it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:56:30,691 - INFO - Testing Epoch 98/200: 100%|██████| 100/100 [00:01<00:00, 66.50it/s, Test_loss=0.201, Te_acc=94.970%]
+2025-06-06 16:56:30,691 - INFO - Epoch 98/200, Epoch time: 14.79s, Test accuracy: 94.97%
+2025-06-06 16:56:43,840 - INFO - Training Epoch 99/200: 100%|█| 391/391 [00:13<00:00, 29.74it/s, Train_loss=0.003, Train_accuracy=99.
+2025-06-06 16:56:45,348 - INFO - Testing Epoch 99/200: 100%|██████| 100/100 [00:01<00:00, 66.33it/s, Test_loss=0.202, Te_acc=95.100%]
+2025-06-06 16:56:45,349 - INFO - Epoch 99/200, Epoch time: 14.66s, Test accuracy: 95.10%
+2025-06-06 16:56:58,819 - INFO - Training Epoch 100/200: 100%|█| 391/391 [00:13<00:00, 29.03it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:57:00,363 - INFO - Testing Epoch 100/200: 100%|█████| 100/100 [00:01<00:00, 64.85it/s, Test_loss=0.202, Te_acc=95.160%]
+2025-06-06 16:57:00,363 - INFO - Epoch 100/200, Epoch time: 15.01s, Test accuracy: 95.16%
+2025-06-06 16:57:13,859 - INFO - Training Epoch 101/200: 100%|█| 391/391 [00:13<00:00, 28.97it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:57:15,383 - INFO - Testing Epoch 101/200: 100%|█████| 100/100 [00:01<00:00, 65.65it/s, Test_loss=0.198, Te_acc=95.310%]
+2025-06-06 16:57:15,384 - INFO - Now Saving..
+2025-06-06 16:57:15,914 - INFO - Epoch 101/200, Epoch time: 15.02s, Test accuracy: 95.31%
+2025-06-06 16:57:29,325 - INFO - Training Epoch 102/200: 100%|█| 391/391 [00:13<00:00, 29.16it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:57:30,869 - INFO - Testing Epoch 102/200: 100%|█████| 100/100 [00:01<00:00, 64.85it/s, Test_loss=0.198, Te_acc=95.190%]
+2025-06-06 16:57:30,869 - INFO - Epoch 102/200, Epoch time: 14.96s, Test accuracy: 95.19%
+2025-06-06 16:57:44,324 - INFO - Training Epoch 103/200: 100%|█| 391/391 [00:13<00:00, 29.06it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:57:45,825 - INFO - Testing Epoch 103/200: 100%|█████| 100/100 [00:01<00:00, 66.70it/s, Test_loss=0.196, Te_acc=95.230%]
+2025-06-06 16:57:45,826 - INFO - Epoch 103/200, Epoch time: 14.96s, Test accuracy: 95.23%
+2025-06-06 16:57:58,284 - INFO - Training Epoch 104/200: 100%|█| 391/391 [00:12<00:00, 31.39it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:57:59,825 - INFO - Testing Epoch 104/200: 100%|█████| 100/100 [00:01<00:00, 64.99it/s, Test_loss=0.200, Te_acc=95.090%]
+2025-06-06 16:57:59,825 - INFO - Epoch 104/200, Epoch time: 14.00s, Test accuracy: 95.09%
+2025-06-06 16:58:13,132 - INFO - Training Epoch 105/200: 100%|█| 391/391 [00:13<00:00, 29.39it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:58:14,692 - INFO - Testing Epoch 105/200: 100%|█████| 100/100 [00:01<00:00, 64.15it/s, Test_loss=0.198, Te_acc=95.330%]
+2025-06-06 16:58:14,692 - INFO - Now Saving..
+2025-06-06 16:58:15,214 - INFO - Epoch 105/200, Epoch time: 14.87s, Test accuracy: 95.33%
+2025-06-06 16:58:27,995 - INFO - Training Epoch 106/200: 100%|█| 391/391 [00:12<00:00, 30.60it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:58:29,513 - INFO - Testing Epoch 106/200: 100%|█████| 100/100 [00:01<00:00, 65.96it/s, Test_loss=0.199, Te_acc=95.290%]
+2025-06-06 16:58:29,513 - INFO - Epoch 106/200, Epoch time: 14.30s, Test accuracy: 95.29%
+2025-06-06 16:58:42,401 - INFO - Training Epoch 107/200: 100%|█| 391/391 [00:12<00:00, 30.34it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:58:43,939 - INFO - Testing Epoch 107/200: 100%|█████| 100/100 [00:01<00:00, 65.09it/s, Test_loss=0.201, Te_acc=95.110%]
+2025-06-06 16:58:43,940 - INFO - Epoch 107/200, Epoch time: 14.43s, Test accuracy: 95.11%
+2025-06-06 16:58:57,891 - INFO - Training Epoch 108/200: 100%|█| 391/391 [00:13<00:00, 28.03it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:58:59,491 - INFO - Testing Epoch 108/200: 100%|█████| 100/100 [00:01<00:00, 62.58it/s, Test_loss=0.195, Te_acc=95.280%]
+2025-06-06 16:58:59,492 - INFO - Epoch 108/200, Epoch time: 15.55s, Test accuracy: 95.28%
+2025-06-06 16:59:12,795 - INFO - Training Epoch 109/200: 100%|█| 391/391 [00:13<00:00, 29.40it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:59:14,337 - INFO - Testing Epoch 109/200: 100%|█████| 100/100 [00:01<00:00, 64.91it/s, Test_loss=0.196, Te_acc=95.220%]
+2025-06-06 16:59:14,337 - INFO - Epoch 109/200, Epoch time: 14.84s, Test accuracy: 95.22%
+2025-06-06 16:59:27,808 - INFO - Training Epoch 110/200: 100%|█| 391/391 [00:13<00:00, 29.03it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:59:29,325 - INFO - Testing Epoch 110/200: 100%|█████| 100/100 [00:01<00:00, 66.01it/s, Test_loss=0.194, Te_acc=95.280%]
+2025-06-06 16:59:29,326 - INFO - Epoch 110/200, Epoch time: 14.99s, Test accuracy: 95.28%
+2025-06-06 16:59:42,612 - INFO - Training Epoch 111/200: 100%|█| 391/391 [00:13<00:00, 29.43it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 16:59:44,112 - INFO - Testing Epoch 111/200: 100%|█████| 100/100 [00:01<00:00, 66.72it/s, Test_loss=0.199, Te_acc=95.330%]
+2025-06-06 16:59:44,113 - INFO - Epoch 111/200, Epoch time: 14.79s, Test accuracy: 95.33%
+2025-06-06 16:59:58,902 - INFO - Training Epoch 112/200: 100%|█| 391/391 [00:14<00:00, 26.44it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:00:00,437 - INFO - Testing Epoch 112/200: 100%|█████| 100/100 [00:01<00:00, 65.22it/s, Test_loss=0.195, Te_acc=95.250%]
+2025-06-06 17:00:00,438 - INFO - Epoch 112/200, Epoch time: 16.33s, Test accuracy: 95.25%
+2025-06-06 17:00:13,480 - INFO - Training Epoch 113/200: 100%|█| 391/391 [00:13<00:00, 29.98it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:00:14,987 - INFO - Testing Epoch 113/200: 100%|█████| 100/100 [00:01<00:00, 66.46it/s, Test_loss=0.195, Te_acc=95.250%]
+2025-06-06 17:00:14,987 - INFO - Epoch 113/200, Epoch time: 14.55s, Test accuracy: 95.25%
+2025-06-06 17:00:27,714 - INFO - Training Epoch 114/200: 100%|█| 391/391 [00:12<00:00, 30.72it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:00:29,218 - INFO - Testing Epoch 114/200: 100%|█████| 100/100 [00:01<00:00, 66.57it/s, Test_loss=0.196, Te_acc=95.320%]
+2025-06-06 17:00:29,218 - INFO - Epoch 114/200, Epoch time: 14.23s, Test accuracy: 95.32%
+2025-06-06 17:00:41,537 - INFO - Training Epoch 115/200: 100%|█| 391/391 [00:12<00:00, 31.74it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:00:43,061 - INFO - Testing Epoch 115/200: 100%|█████| 100/100 [00:01<00:00, 65.66it/s, Test_loss=0.197, Te_acc=95.270%]
+2025-06-06 17:00:43,062 - INFO - Epoch 115/200, Epoch time: 13.84s, Test accuracy: 95.27%
+2025-06-06 17:00:55,499 - INFO - Training Epoch 116/200: 100%|█| 391/391 [00:12<00:00, 31.44it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:00:57,018 - INFO - Testing Epoch 116/200: 100%|█████| 100/100 [00:01<00:00, 65.92it/s, Test_loss=0.196, Te_acc=95.290%]
+2025-06-06 17:00:57,018 - INFO - Epoch 116/200, Epoch time: 13.96s, Test accuracy: 95.29%
+2025-06-06 17:01:09,449 - INFO - Training Epoch 117/200: 100%|█| 391/391 [00:12<00:00, 31.46it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:01:10,955 - INFO - Testing Epoch 117/200: 100%|█████| 100/100 [00:01<00:00, 66.49it/s, Test_loss=0.196, Te_acc=95.340%]
+2025-06-06 17:01:10,956 - INFO - Now Saving..
+2025-06-06 17:01:11,469 - INFO - Epoch 117/200, Epoch time: 13.94s, Test accuracy: 95.34%
+2025-06-06 17:01:24,466 - INFO - Training Epoch 118/200: 100%|█| 391/391 [00:12<00:00, 30.09it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:01:25,990 - INFO - Testing Epoch 118/200: 100%|█████| 100/100 [00:01<00:00, 65.67it/s, Test_loss=0.197, Te_acc=95.330%]
+2025-06-06 17:01:25,991 - INFO - Epoch 118/200, Epoch time: 14.52s, Test accuracy: 95.33%
+2025-06-06 17:01:38,332 - INFO - Training Epoch 119/200: 100%|█| 391/391 [00:12<00:00, 31.69it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:01:39,813 - INFO - Testing Epoch 119/200: 100%|█████| 100/100 [00:01<00:00, 67.55it/s, Test_loss=0.197, Te_acc=95.330%]
+2025-06-06 17:01:39,814 - INFO - Epoch 119/200, Epoch time: 13.82s, Test accuracy: 95.33%
+2025-06-06 17:01:52,678 - INFO - Training Epoch 120/200: 100%|█| 391/391 [00:12<00:00, 30.40it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:01:54,186 - INFO - Testing Epoch 120/200: 100%|█████| 100/100 [00:01<00:00, 66.41it/s, Test_loss=0.197, Te_acc=95.280%]
+2025-06-06 17:01:54,186 - INFO - Epoch 120/200, Epoch time: 14.37s, Test accuracy: 95.28%
+2025-06-06 17:02:07,315 - INFO - Training Epoch 121/200: 100%|█| 391/391 [00:13<00:00, 29.78it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:02:08,832 - INFO - Testing Epoch 121/200: 100%|█████| 100/100 [00:01<00:00, 66.01it/s, Test_loss=0.196, Te_acc=95.430%]
+2025-06-06 17:02:08,832 - INFO - Now Saving..
+2025-06-06 17:02:09,390 - INFO - Epoch 121/200, Epoch time: 14.65s, Test accuracy: 95.43%
+2025-06-06 17:02:22,837 - INFO - Training Epoch 122/200: 100%|█| 391/391 [00:13<00:00, 29.08it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:02:24,360 - INFO - Testing Epoch 122/200: 100%|█████| 100/100 [00:01<00:00, 65.72it/s, Test_loss=0.197, Te_acc=95.310%]
+2025-06-06 17:02:24,361 - INFO - Epoch 122/200, Epoch time: 14.97s, Test accuracy: 95.31%
+2025-06-06 17:02:37,699 - INFO - Training Epoch 123/200: 100%|█| 391/391 [00:13<00:00, 29.32it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:02:39,213 - INFO - Testing Epoch 123/200: 100%|█████| 100/100 [00:01<00:00, 66.13it/s, Test_loss=0.195, Te_acc=95.360%]
+2025-06-06 17:02:39,213 - INFO - Epoch 123/200, Epoch time: 14.85s, Test accuracy: 95.36%
+2025-06-06 17:02:51,849 - INFO - Training Epoch 124/200: 100%|█| 391/391 [00:12<00:00, 30.94it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:02:53,359 - INFO - Testing Epoch 124/200: 100%|█████| 100/100 [00:01<00:00, 66.30it/s, Test_loss=0.193, Te_acc=95.270%]
+2025-06-06 17:02:53,360 - INFO - Epoch 124/200, Epoch time: 14.15s, Test accuracy: 95.27%
+2025-06-06 17:03:06,602 - INFO - Training Epoch 125/200: 100%|█| 391/391 [00:13<00:00, 29.53it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:03:08,100 - INFO - Testing Epoch 125/200: 100%|█████| 100/100 [00:01<00:00, 66.84it/s, Test_loss=0.195, Te_acc=95.320%]
+2025-06-06 17:03:08,100 - INFO - Epoch 125/200, Epoch time: 14.74s, Test accuracy: 95.32%
+2025-06-06 17:03:20,457 - INFO - Training Epoch 126/200: 100%|█| 391/391 [00:12<00:00, 31.64it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:03:21,978 - INFO - Testing Epoch 126/200: 100%|█████| 100/100 [00:01<00:00, 65.84it/s, Test_loss=0.194, Te_acc=95.340%]
+2025-06-06 17:03:21,978 - INFO - Epoch 126/200, Epoch time: 13.88s, Test accuracy: 95.34%
+2025-06-06 17:03:35,389 - INFO - Training Epoch 127/200: 100%|█| 391/391 [00:13<00:00, 29.16it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:03:36,905 - INFO - Testing Epoch 127/200: 100%|█████| 100/100 [00:01<00:00, 66.04it/s, Test_loss=0.196, Te_acc=95.370%]
+2025-06-06 17:03:36,906 - INFO - Epoch 127/200, Epoch time: 14.93s, Test accuracy: 95.37%
+2025-06-06 17:03:50,239 - INFO - Training Epoch 128/200: 100%|█| 391/391 [00:13<00:00, 29.33it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:03:51,753 - INFO - Testing Epoch 128/200: 100%|█████| 100/100 [00:01<00:00, 66.15it/s, Test_loss=0.195, Te_acc=95.190%]
+2025-06-06 17:03:51,753 - INFO - Epoch 128/200, Epoch time: 14.85s, Test accuracy: 95.19%
+2025-06-06 17:04:04,918 - INFO - Training Epoch 129/200: 100%|█| 391/391 [00:13<00:00, 29.70it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:04:06,434 - INFO - Testing Epoch 129/200: 100%|█████| 100/100 [00:01<00:00, 66.07it/s, Test_loss=0.193, Te_acc=95.340%]
+2025-06-06 17:04:06,434 - INFO - Epoch 129/200, Epoch time: 14.68s, Test accuracy: 95.34%
+2025-06-06 17:04:18,720 - INFO - Training Epoch 130/200: 100%|█| 391/391 [00:12<00:00, 31.83it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:04:20,224 - INFO - Testing Epoch 130/200: 100%|█████| 100/100 [00:01<00:00, 66.59it/s, Test_loss=0.193, Te_acc=95.250%]
+2025-06-06 17:04:20,224 - INFO - Epoch 130/200, Epoch time: 13.79s, Test accuracy: 95.25%
+2025-06-06 17:04:33,426 - INFO - Training Epoch 131/200: 100%|█| 391/391 [00:13<00:00, 29.62it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:04:34,945 - INFO - Testing Epoch 131/200: 100%|█████| 100/100 [00:01<00:00, 65.90it/s, Test_loss=0.195, Te_acc=95.320%]
+2025-06-06 17:04:34,946 - INFO - Epoch 131/200, Epoch time: 14.72s, Test accuracy: 95.32%
+2025-06-06 17:04:47,879 - INFO - Training Epoch 132/200: 100%|█| 391/391 [00:12<00:00, 30.23it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:04:49,385 - INFO - Testing Epoch 132/200: 100%|█████| 100/100 [00:01<00:00, 66.47it/s, Test_loss=0.195, Te_acc=95.340%]
+2025-06-06 17:04:49,385 - INFO - Epoch 132/200, Epoch time: 14.44s, Test accuracy: 95.34%
+2025-06-06 17:05:01,663 - INFO - Training Epoch 133/200: 100%|█| 391/391 [00:12<00:00, 31.85it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:05:03,141 - INFO - Testing Epoch 133/200: 100%|█████| 100/100 [00:01<00:00, 67.75it/s, Test_loss=0.197, Te_acc=95.190%]
+2025-06-06 17:05:03,141 - INFO - Epoch 133/200, Epoch time: 13.76s, Test accuracy: 95.19%
+2025-06-06 17:05:15,449 - INFO - Training Epoch 134/200: 100%|█| 391/391 [00:12<00:00, 31.77it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:05:16,949 - INFO - Testing Epoch 134/200: 100%|█████| 100/100 [00:01<00:00, 66.73it/s, Test_loss=0.197, Te_acc=95.200%]
+2025-06-06 17:05:16,949 - INFO - Epoch 134/200, Epoch time: 13.81s, Test accuracy: 95.20%
+2025-06-06 17:05:29,813 - INFO - Training Epoch 135/200: 100%|█| 391/391 [00:12<00:00, 30.40it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:05:31,347 - INFO - Testing Epoch 135/200: 100%|█████| 100/100 [00:01<00:00, 65.30it/s, Test_loss=0.194, Te_acc=95.290%]
+2025-06-06 17:05:31,347 - INFO - Epoch 135/200, Epoch time: 14.40s, Test accuracy: 95.29%
+2025-06-06 17:05:44,743 - INFO - Training Epoch 136/200: 100%|█| 391/391 [00:13<00:00, 29.19it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:05:46,240 - INFO - Testing Epoch 136/200: 100%|█████| 100/100 [00:01<00:00, 66.84it/s, Test_loss=0.195, Te_acc=95.280%]
+2025-06-06 17:05:46,241 - INFO - Epoch 136/200, Epoch time: 14.89s, Test accuracy: 95.28%
+2025-06-06 17:05:59,692 - INFO - Training Epoch 137/200: 100%|█| 391/391 [00:13<00:00, 29.07it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:06:01,221 - INFO - Testing Epoch 137/200: 100%|█████| 100/100 [00:01<00:00, 65.48it/s, Test_loss=0.196, Te_acc=95.240%]
+2025-06-06 17:06:01,222 - INFO - Epoch 137/200, Epoch time: 14.98s, Test accuracy: 95.24%
+2025-06-06 17:06:14,507 - INFO - Training Epoch 138/200: 100%|█| 391/391 [00:13<00:00, 29.43it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:06:16,025 - INFO - Testing Epoch 138/200: 100%|█████| 100/100 [00:01<00:00, 65.97it/s, Test_loss=0.192, Te_acc=95.320%]
+2025-06-06 17:06:16,025 - INFO - Epoch 138/200, Epoch time: 14.80s, Test accuracy: 95.32%
+2025-06-06 17:06:29,457 - INFO - Training Epoch 139/200: 100%|█| 391/391 [00:13<00:00, 29.11it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:06:30,968 - INFO - Testing Epoch 139/200: 100%|█████| 100/100 [00:01<00:00, 66.25it/s, Test_loss=0.194, Te_acc=95.320%]
+2025-06-06 17:06:30,969 - INFO - Epoch 139/200, Epoch time: 14.94s, Test accuracy: 95.32%
+2025-06-06 17:06:44,070 - INFO - Training Epoch 140/200: 100%|█| 391/391 [00:13<00:00, 29.84it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:06:45,596 - INFO - Testing Epoch 140/200: 100%|█████| 100/100 [00:01<00:00, 65.59it/s, Test_loss=0.192, Te_acc=95.350%]
+2025-06-06 17:06:45,597 - INFO - Epoch 140/200, Epoch time: 14.63s, Test accuracy: 95.35%
+2025-06-06 17:06:58,738 - INFO - Training Epoch 141/200: 100%|█| 391/391 [00:13<00:00, 29.76it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:07:00,239 - INFO - Testing Epoch 141/200: 100%|█████| 100/100 [00:01<00:00, 66.65it/s, Test_loss=0.192, Te_acc=95.400%]
+2025-06-06 17:07:00,239 - INFO - Epoch 141/200, Epoch time: 14.64s, Test accuracy: 95.40%
+2025-06-06 17:07:12,591 - INFO - Training Epoch 142/200: 100%|█| 391/391 [00:12<00:00, 31.66it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:07:14,107 - INFO - Testing Epoch 142/200: 100%|█████| 100/100 [00:01<00:00, 66.01it/s, Test_loss=0.193, Te_acc=95.310%]
+2025-06-06 17:07:14,108 - INFO - Epoch 142/200, Epoch time: 13.87s, Test accuracy: 95.31%
+2025-06-06 17:07:26,470 - INFO - Training Epoch 143/200: 100%|█| 391/391 [00:12<00:00, 31.63it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:07:27,984 - INFO - Testing Epoch 143/200: 100%|█████| 100/100 [00:01<00:00, 66.13it/s, Test_loss=0.195, Te_acc=95.350%]
+2025-06-06 17:07:27,985 - INFO - Epoch 143/200, Epoch time: 13.88s, Test accuracy: 95.35%
+2025-06-06 17:07:40,341 - INFO - Training Epoch 144/200: 100%|█| 391/391 [00:12<00:00, 31.64it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:07:41,860 - INFO - Testing Epoch 144/200: 100%|█████| 100/100 [00:01<00:00, 65.92it/s, Test_loss=0.195, Te_acc=95.290%]
+2025-06-06 17:07:41,861 - INFO - Epoch 144/200, Epoch time: 13.88s, Test accuracy: 95.29%
+2025-06-06 17:07:55,212 - INFO - Training Epoch 145/200: 100%|█| 391/391 [00:13<00:00, 29.29it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:07:56,711 - INFO - Testing Epoch 145/200: 100%|█████| 100/100 [00:01<00:00, 66.79it/s, Test_loss=0.193, Te_acc=95.340%]
+2025-06-06 17:07:56,712 - INFO - Epoch 145/200, Epoch time: 14.85s, Test accuracy: 95.34%
+2025-06-06 17:08:09,787 - INFO - Training Epoch 146/200: 100%|█| 391/391 [00:13<00:00, 29.90it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:08:11,275 - INFO - Testing Epoch 146/200: 100%|█████| 100/100 [00:01<00:00, 67.24it/s, Test_loss=0.195, Te_acc=95.400%]
+2025-06-06 17:08:11,276 - INFO - Epoch 146/200, Epoch time: 14.56s, Test accuracy: 95.40%
+2025-06-06 17:08:23,871 - INFO - Training Epoch 147/200: 100%|█| 391/391 [00:12<00:00, 31.04it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:08:25,405 - INFO - Testing Epoch 147/200: 100%|█████| 100/100 [00:01<00:00, 65.30it/s, Test_loss=0.196, Te_acc=95.330%]
+2025-06-06 17:08:25,405 - INFO - Epoch 147/200, Epoch time: 14.13s, Test accuracy: 95.33%
+2025-06-06 17:08:37,736 - INFO - Training Epoch 148/200: 100%|█| 391/391 [00:12<00:00, 31.71it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:08:39,236 - INFO - Testing Epoch 148/200: 100%|█████| 100/100 [00:01<00:00, 66.71it/s, Test_loss=0.195, Te_acc=95.370%]
+2025-06-06 17:08:39,237 - INFO - Epoch 148/200, Epoch time: 13.83s, Test accuracy: 95.37%
+2025-06-06 17:08:51,640 - INFO - Training Epoch 149/200: 100%|█| 391/391 [00:12<00:00, 31.53it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:08:53,143 - INFO - Testing Epoch 149/200: 100%|█████| 100/100 [00:01<00:00, 66.57it/s, Test_loss=0.195, Te_acc=95.380%]
+2025-06-06 17:08:53,144 - INFO - Epoch 149/200, Epoch time: 13.91s, Test accuracy: 95.38%
+2025-06-06 17:09:05,840 - INFO - Training Epoch 150/200: 100%|█| 391/391 [00:12<00:00, 30.80it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:09:07,352 - INFO - Testing Epoch 150/200: 100%|█████| 100/100 [00:01<00:00, 66.21it/s, Test_loss=0.193, Te_acc=95.330%]
+2025-06-06 17:09:07,353 - INFO - Epoch 150/200, Epoch time: 14.21s, Test accuracy: 95.33%
+2025-06-06 17:09:20,202 - INFO - Training Epoch 151/200: 100%|█| 391/391 [00:12<00:00, 30.43it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:09:21,700 - INFO - Testing Epoch 151/200: 100%|█████| 100/100 [00:01<00:00, 66.82it/s, Test_loss=0.193, Te_acc=95.370%]
+2025-06-06 17:09:21,701 - INFO - Epoch 151/200, Epoch time: 14.35s, Test accuracy: 95.37%
+2025-06-06 17:09:35,049 - INFO - Training Epoch 152/200: 100%|█| 391/391 [00:13<00:00, 29.29it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:09:36,562 - INFO - Testing Epoch 152/200: 100%|█████| 100/100 [00:01<00:00, 66.16it/s, Test_loss=0.194, Te_acc=95.330%]
+2025-06-06 17:09:36,562 - INFO - Epoch 152/200, Epoch time: 14.86s, Test accuracy: 95.33%
+2025-06-06 17:09:49,947 - INFO - Training Epoch 153/200: 100%|█| 391/391 [00:13<00:00, 29.21it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:09:51,447 - INFO - Testing Epoch 153/200: 100%|█████| 100/100 [00:01<00:00, 66.74it/s, Test_loss=0.193, Te_acc=95.440%]
+2025-06-06 17:09:51,447 - INFO - Now Saving..
+2025-06-06 17:09:51,991 - INFO - Epoch 153/200, Epoch time: 14.89s, Test accuracy: 95.44%
+2025-06-06 17:10:05,292 - INFO - Training Epoch 154/200: 100%|█| 391/391 [00:13<00:00, 29.40it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:10:06,799 - INFO - Testing Epoch 154/200: 100%|█████| 100/100 [00:01<00:00, 66.42it/s, Test_loss=0.195, Te_acc=95.350%]
+2025-06-06 17:10:06,800 - INFO - Epoch 154/200, Epoch time: 14.81s, Test accuracy: 95.35%
+2025-06-06 17:10:19,146 - INFO - Training Epoch 155/200: 100%|█| 391/391 [00:12<00:00, 31.67it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:10:20,645 - INFO - Testing Epoch 155/200: 100%|█████| 100/100 [00:01<00:00, 66.78it/s, Test_loss=0.192, Te_acc=95.340%]
+2025-06-06 17:10:20,645 - INFO - Epoch 155/200, Epoch time: 13.85s, Test accuracy: 95.34%
+2025-06-06 17:10:33,924 - INFO - Training Epoch 156/200: 100%|█| 391/391 [00:13<00:00, 29.45it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:10:35,422 - INFO - Testing Epoch 156/200: 100%|█████| 100/100 [00:01<00:00, 66.79it/s, Test_loss=0.192, Te_acc=95.360%]
+2025-06-06 17:10:35,423 - INFO - Epoch 156/200, Epoch time: 14.78s, Test accuracy: 95.36%
+2025-06-06 17:10:47,774 - INFO - Training Epoch 157/200: 100%|█| 391/391 [00:12<00:00, 31.66it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:10:49,305 - INFO - Testing Epoch 157/200: 100%|█████| 100/100 [00:01<00:00, 65.39it/s, Test_loss=0.193, Te_acc=95.350%]
+2025-06-06 17:10:49,305 - INFO - Epoch 157/200, Epoch time: 13.88s, Test accuracy: 95.35%
+2025-06-06 17:11:01,644 - INFO - Training Epoch 158/200: 100%|█| 391/391 [00:12<00:00, 31.69it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:11:03,154 - INFO - Testing Epoch 158/200: 100%|█████| 100/100 [00:01<00:00, 66.31it/s, Test_loss=0.195, Te_acc=95.410%]
+2025-06-06 17:11:03,154 - INFO - Epoch 158/200, Epoch time: 13.85s, Test accuracy: 95.41%
+2025-06-06 17:11:16,573 - INFO - Training Epoch 159/200: 100%|█| 391/391 [00:13<00:00, 29.14it/s, Train_loss=0.002, Train_accuracy=99
+2025-06-06 17:11:18,105 - INFO - Testing Epoch 159/200: 100%|█████| 100/100 [00:01<00:00, 65.34it/s, Test_loss=0.195, Te_acc=95.320%]
+2025-06-06 17:11:18,106 - INFO - Epoch 159/200, Epoch time: 14.95s, Test accuracy: 95.32%
+2025-06-06 17:11:31,583 - INFO - Training Epoch 160/200: 100%|█| 391/391 [00:13<00:00, 29.01it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:11:33,081 - INFO - Testing Epoch 160/200: 100%|█████| 100/100 [00:01<00:00, 66.86it/s, Test_loss=0.192, Te_acc=95.430%]
+2025-06-06 17:11:33,081 - INFO - Epoch 160/200, Epoch time: 14.98s, Test accuracy: 95.43%
+2025-06-06 17:11:46,462 - INFO - Training Epoch 161/200: 100%|█| 391/391 [00:13<00:00, 29.22it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:11:47,999 - INFO - Testing Epoch 161/200: 100%|█████| 100/100 [00:01<00:00, 65.14it/s, Test_loss=0.194, Te_acc=95.320%]
+2025-06-06 17:11:48,000 - INFO - Epoch 161/200, Epoch time: 14.92s, Test accuracy: 95.32%
+2025-06-06 17:12:01,430 - INFO - Training Epoch 162/200: 100%|█| 391/391 [00:13<00:00, 29.11it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:12:02,949 - INFO - Testing Epoch 162/200: 100%|█████| 100/100 [00:01<00:00, 65.92it/s, Test_loss=0.194, Te_acc=95.410%]
+2025-06-06 17:12:02,949 - INFO - Epoch 162/200, Epoch time: 14.95s, Test accuracy: 95.41%
+2025-06-06 17:12:16,304 - INFO - Training Epoch 163/200: 100%|█| 391/391 [00:13<00:00, 29.28it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:12:17,929 - INFO - Testing Epoch 163/200: 100%|█████| 100/100 [00:01<00:00, 61.58it/s, Test_loss=0.194, Te_acc=95.330%]
+2025-06-06 17:12:17,930 - INFO - Epoch 163/200, Epoch time: 14.98s, Test accuracy: 95.33%
+2025-06-06 17:12:31,195 - INFO - Training Epoch 164/200: 100%|█| 391/391 [00:13<00:00, 29.48it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:12:32,744 - INFO - Testing Epoch 164/200: 100%|█████| 100/100 [00:01<00:00, 64.63it/s, Test_loss=0.194, Te_acc=95.300%]
+2025-06-06 17:12:32,745 - INFO - Epoch 164/200, Epoch time: 14.81s, Test accuracy: 95.30%
+2025-06-06 17:12:46,106 - INFO - Training Epoch 165/200: 100%|█| 391/391 [00:13<00:00, 29.26it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:12:47,656 - INFO - Testing Epoch 165/200: 100%|█████| 100/100 [00:01<00:00, 64.62it/s, Test_loss=0.194, Te_acc=95.360%]
+2025-06-06 17:12:47,656 - INFO - Epoch 165/200, Epoch time: 14.91s, Test accuracy: 95.36%
+2025-06-06 17:13:01,184 - INFO - Training Epoch 166/200: 100%|█| 391/391 [00:13<00:00, 28.91it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:13:02,728 - INFO - Testing Epoch 166/200: 100%|█████| 100/100 [00:01<00:00, 64.82it/s, Test_loss=0.193, Te_acc=95.370%]
+2025-06-06 17:13:02,728 - INFO - Epoch 166/200, Epoch time: 15.07s, Test accuracy: 95.37%
+2025-06-06 17:13:16,314 - INFO - Training Epoch 167/200: 100%|█| 391/391 [00:13<00:00, 28.78it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:13:17,847 - INFO - Testing Epoch 167/200: 100%|█████| 100/100 [00:01<00:00, 65.34it/s, Test_loss=0.196, Te_acc=95.340%]
+2025-06-06 17:13:17,847 - INFO - Epoch 167/200, Epoch time: 15.12s, Test accuracy: 95.34%
+2025-06-06 17:13:30,744 - INFO - Training Epoch 168/200: 100%|█| 391/391 [00:12<00:00, 30.32it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:13:32,246 - INFO - Testing Epoch 168/200: 100%|█████| 100/100 [00:01<00:00, 66.60it/s, Test_loss=0.194, Te_acc=95.410%]
+2025-06-06 17:13:32,247 - INFO - Epoch 168/200, Epoch time: 14.40s, Test accuracy: 95.41%
+2025-06-06 17:13:45,739 - INFO - Training Epoch 169/200: 100%|█| 391/391 [00:13<00:00, 28.98it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:13:47,260 - INFO - Testing Epoch 169/200: 100%|█████| 100/100 [00:01<00:00, 65.84it/s, Test_loss=0.194, Te_acc=95.320%]
+2025-06-06 17:13:47,260 - INFO - Epoch 169/200, Epoch time: 15.01s, Test accuracy: 95.32%
+2025-06-06 17:14:00,692 - INFO - Training Epoch 170/200: 100%|█| 391/391 [00:13<00:00, 29.11it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:14:02,230 - INFO - Testing Epoch 170/200: 100%|█████| 100/100 [00:01<00:00, 65.10it/s, Test_loss=0.193, Te_acc=95.390%]
+2025-06-06 17:14:02,230 - INFO - Epoch 170/200, Epoch time: 14.97s, Test accuracy: 95.39%
+2025-06-06 17:14:15,330 - INFO - Training Epoch 171/200: 100%|█| 391/391 [00:13<00:00, 29.85it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:14:16,845 - INFO - Testing Epoch 171/200: 100%|█████| 100/100 [00:01<00:00, 66.08it/s, Test_loss=0.195, Te_acc=95.380%]
+2025-06-06 17:14:16,845 - INFO - Epoch 171/200, Epoch time: 14.62s, Test accuracy: 95.38%
+2025-06-06 17:14:30,347 - INFO - Training Epoch 172/200: 100%|█| 391/391 [00:13<00:00, 28.96it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:14:31,868 - INFO - Testing Epoch 172/200: 100%|█████| 100/100 [00:01<00:00, 65.82it/s, Test_loss=0.196, Te_acc=95.290%]
+2025-06-06 17:14:31,869 - INFO - Epoch 172/200, Epoch time: 15.02s, Test accuracy: 95.29%
+2025-06-06 17:14:45,124 - INFO - Training Epoch 173/200: 100%|█| 391/391 [00:13<00:00, 29.50it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:14:46,649 - INFO - Testing Epoch 173/200: 100%|█████| 100/100 [00:01<00:00, 65.64it/s, Test_loss=0.195, Te_acc=95.370%]
+2025-06-06 17:14:46,649 - INFO - Epoch 173/200, Epoch time: 14.78s, Test accuracy: 95.37%
+2025-06-06 17:14:58,990 - INFO - Training Epoch 174/200: 100%|█| 391/391 [00:12<00:00, 31.69it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:15:00,507 - INFO - Testing Epoch 174/200: 100%|█████| 100/100 [00:01<00:00, 66.01it/s, Test_loss=0.193, Te_acc=95.320%]
+2025-06-06 17:15:00,507 - INFO - Epoch 174/200, Epoch time: 13.86s, Test accuracy: 95.32%
+2025-06-06 17:15:13,853 - INFO - Training Epoch 175/200: 100%|█| 391/391 [00:13<00:00, 29.30it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:15:15,385 - INFO - Testing Epoch 175/200: 100%|█████| 100/100 [00:01<00:00, 65.37it/s, Test_loss=0.194, Te_acc=95.360%]
+2025-06-06 17:15:15,385 - INFO - Epoch 175/200, Epoch time: 14.88s, Test accuracy: 95.36%
+2025-06-06 17:15:27,765 - INFO - Training Epoch 176/200: 100%|█| 391/391 [00:12<00:00, 31.58it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:15:29,284 - INFO - Testing Epoch 176/200: 100%|█████| 100/100 [00:01<00:00, 65.90it/s, Test_loss=0.195, Te_acc=95.360%]
+2025-06-06 17:15:29,284 - INFO - Epoch 176/200, Epoch time: 13.90s, Test accuracy: 95.36%
+2025-06-06 17:15:42,666 - INFO - Training Epoch 177/200: 100%|█| 391/391 [00:13<00:00, 29.22it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:15:44,168 - INFO - Testing Epoch 177/200: 100%|█████| 100/100 [00:01<00:00, 66.65it/s, Test_loss=0.196, Te_acc=95.290%]
+2025-06-06 17:15:44,169 - INFO - Epoch 177/200, Epoch time: 14.88s, Test accuracy: 95.29%
+2025-06-06 17:15:57,394 - INFO - Training Epoch 178/200: 100%|█| 391/391 [00:13<00:00, 29.57it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:15:58,902 - INFO - Testing Epoch 178/200: 100%|█████| 100/100 [00:01<00:00, 66.38it/s, Test_loss=0.193, Te_acc=95.310%]
+2025-06-06 17:15:58,902 - INFO - Epoch 178/200, Epoch time: 14.73s, Test accuracy: 95.31%
+2025-06-06 17:16:11,267 - INFO - Training Epoch 179/200: 100%|█| 391/391 [00:12<00:00, 31.62it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:16:12,795 - INFO - Testing Epoch 179/200: 100%|█████| 100/100 [00:01<00:00, 65.54it/s, Test_loss=0.193, Te_acc=95.450%]
+2025-06-06 17:16:12,795 - INFO - Now Saving..
+2025-06-06 17:16:13,324 - INFO - Epoch 179/200, Epoch time: 13.89s, Test accuracy: 95.45%
+2025-06-06 17:16:26,671 - INFO - Training Epoch 180/200: 100%|█| 391/391 [00:13<00:00, 29.30it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:16:28,186 - INFO - Testing Epoch 180/200: 100%|█████| 100/100 [00:01<00:00, 66.07it/s, Test_loss=0.193, Te_acc=95.350%]
+2025-06-06 17:16:28,187 - INFO - Epoch 180/200, Epoch time: 14.86s, Test accuracy: 95.35%
+2025-06-06 17:16:41,498 - INFO - Training Epoch 181/200: 100%|█| 391/391 [00:13<00:00, 29.37it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:16:43,006 - INFO - Testing Epoch 181/200: 100%|█████| 100/100 [00:01<00:00, 66.42it/s, Test_loss=0.193, Te_acc=95.410%]
+2025-06-06 17:16:43,007 - INFO - Epoch 181/200, Epoch time: 14.82s, Test accuracy: 95.41%
+2025-06-06 17:16:56,429 - INFO - Training Epoch 182/200: 100%|█| 391/391 [00:13<00:00, 29.13it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:16:57,946 - INFO - Testing Epoch 182/200: 100%|█████| 100/100 [00:01<00:00, 66.02it/s, Test_loss=0.194, Te_acc=95.410%]
+2025-06-06 17:16:57,946 - INFO - Epoch 182/200, Epoch time: 14.94s, Test accuracy: 95.41%
+2025-06-06 17:17:11,271 - INFO - Training Epoch 183/200: 100%|█| 391/391 [00:13<00:00, 29.35it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:17:12,814 - INFO - Testing Epoch 183/200: 100%|█████| 100/100 [00:01<00:00, 64.90it/s, Test_loss=0.193, Te_acc=95.450%]
+2025-06-06 17:17:12,814 - INFO - Epoch 183/200, Epoch time: 14.87s, Test accuracy: 95.45%
+2025-06-06 17:17:26,148 - INFO - Training Epoch 184/200: 100%|█| 391/391 [00:13<00:00, 29.33it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:17:27,689 - INFO - Testing Epoch 184/200: 100%|█████| 100/100 [00:01<00:00, 64.99it/s, Test_loss=0.194, Te_acc=95.380%]
+2025-06-06 17:17:27,689 - INFO - Epoch 184/200, Epoch time: 14.87s, Test accuracy: 95.38%
+2025-06-06 17:17:40,050 - INFO - Training Epoch 185/200: 100%|█| 391/391 [00:12<00:00, 31.63it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:17:41,543 - INFO - Testing Epoch 185/200: 100%|█████| 100/100 [00:01<00:00, 67.09it/s, Test_loss=0.192, Te_acc=95.370%]
+2025-06-06 17:17:41,543 - INFO - Epoch 185/200, Epoch time: 13.85s, Test accuracy: 95.37%
+2025-06-06 17:17:54,824 - INFO - Training Epoch 186/200: 100%|█| 391/391 [00:13<00:00, 29.44it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:17:56,361 - INFO - Testing Epoch 186/200: 100%|█████| 100/100 [00:01<00:00, 65.16it/s, Test_loss=0.193, Te_acc=95.300%]
+2025-06-06 17:17:56,361 - INFO - Epoch 186/200, Epoch time: 14.82s, Test accuracy: 95.30%
+2025-06-06 17:18:09,469 - INFO - Training Epoch 187/200: 100%|█| 391/391 [00:13<00:00, 29.83it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:18:10,979 - INFO - Testing Epoch 187/200: 100%|█████| 100/100 [00:01<00:00, 66.34it/s, Test_loss=0.195, Te_acc=95.340%]
+2025-06-06 17:18:10,979 - INFO - Epoch 187/200, Epoch time: 14.62s, Test accuracy: 95.34%
+2025-06-06 17:18:24,368 - INFO - Training Epoch 188/200: 100%|█| 391/391 [00:13<00:00, 29.20it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:18:25,889 - INFO - Testing Epoch 188/200: 100%|█████| 100/100 [00:01<00:00, 65.84it/s, Test_loss=0.195, Te_acc=95.230%]
+2025-06-06 17:18:25,890 - INFO - Epoch 188/200, Epoch time: 14.91s, Test accuracy: 95.23%
+2025-06-06 17:18:38,249 - INFO - Training Epoch 189/200: 100%|█| 391/391 [00:12<00:00, 31.64it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:18:39,812 - INFO - Testing Epoch 189/200: 100%|█████| 100/100 [00:01<00:00, 64.07it/s, Test_loss=0.195, Te_acc=95.260%]
+2025-06-06 17:18:39,812 - INFO - Epoch 189/200, Epoch time: 13.92s, Test accuracy: 95.26%
+2025-06-06 17:18:52,976 - INFO - Training Epoch 190/200: 100%|█| 391/391 [00:13<00:00, 29.70it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:18:54,499 - INFO - Testing Epoch 190/200: 100%|█████| 100/100 [00:01<00:00, 65.72it/s, Test_loss=0.192, Te_acc=95.400%]
+2025-06-06 17:18:54,499 - INFO - Epoch 190/200, Epoch time: 14.69s, Test accuracy: 95.40%
+2025-06-06 17:19:07,932 - INFO - Training Epoch 191/200: 100%|█| 391/391 [00:13<00:00, 29.11it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:19:09,450 - INFO - Testing Epoch 191/200: 100%|█████| 100/100 [00:01<00:00, 65.95it/s, Test_loss=0.192, Te_acc=95.380%]
+2025-06-06 17:19:09,451 - INFO - Epoch 191/200, Epoch time: 14.95s, Test accuracy: 95.38%
+2025-06-06 17:19:22,568 - INFO - Training Epoch 192/200: 100%|█| 391/391 [00:13<00:00, 29.81it/s, Train_loss=0.001, Train_accuracy=10
+2025-06-06 17:19:24,088 - INFO - Testing Epoch 192/200: 100%|█████| 100/100 [00:01<00:00, 65.89it/s, Test_loss=0.192, Te_acc=95.320%]
+2025-06-06 17:19:24,088 - INFO - Epoch 192/200, Epoch time: 14.64s, Test accuracy: 95.32%
+2025-06-06 17:19:37,395 - INFO - Training Epoch 193/200: 100%|█| 391/391 [00:13<00:00, 29.39it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:19:38,905 - INFO - Testing Epoch 193/200: 100%|█████| 100/100 [00:01<00:00, 66.30it/s, Test_loss=0.193, Te_acc=95.420%]
+2025-06-06 17:19:38,905 - INFO - Epoch 193/200, Epoch time: 14.82s, Test accuracy: 95.42%
+2025-06-06 17:19:52,539 - INFO - Training Epoch 194/200: 100%|█| 391/391 [00:13<00:00, 28.68it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:19:54,041 - INFO - Testing Epoch 194/200: 100%|█████| 100/100 [00:01<00:00, 66.66it/s, Test_loss=0.195, Te_acc=95.310%]
+2025-06-06 17:19:54,042 - INFO - Epoch 194/200, Epoch time: 15.14s, Test accuracy: 95.31%
+2025-06-06 17:20:07,460 - INFO - Training Epoch 195/200: 100%|█| 391/391 [00:13<00:00, 29.14it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:20:08,971 - INFO - Testing Epoch 195/200: 100%|█████| 100/100 [00:01<00:00, 66.27it/s, Test_loss=0.193, Te_acc=95.390%]
+2025-06-06 17:20:08,972 - INFO - Epoch 195/200, Epoch time: 14.93s, Test accuracy: 95.39%
+2025-06-06 17:20:22,362 - INFO - Training Epoch 196/200: 100%|█| 391/391 [00:13<00:00, 29.20it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:20:23,863 - INFO - Testing Epoch 196/200: 100%|█████| 100/100 [00:01<00:00, 66.69it/s, Test_loss=0.194, Te_acc=95.410%]
+2025-06-06 17:20:23,864 - INFO - Epoch 196/200, Epoch time: 14.89s, Test accuracy: 95.41%
+2025-06-06 17:20:37,070 - INFO - Training Epoch 197/200: 100%|█| 391/391 [00:13<00:00, 29.61it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:20:38,603 - INFO - Testing Epoch 197/200: 100%|█████| 100/100 [00:01<00:00, 65.32it/s, Test_loss=0.194, Te_acc=95.410%]
+2025-06-06 17:20:38,603 - INFO - Epoch 197/200, Epoch time: 14.74s, Test accuracy: 95.41%
+2025-06-06 17:20:51,397 - INFO - Training Epoch 198/200: 100%|█| 391/391 [00:12<00:00, 30.56it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:20:52,926 - INFO - Testing Epoch 198/200: 100%|█████| 100/100 [00:01<00:00, 65.50it/s, Test_loss=0.194, Te_acc=95.270%]
+2025-06-06 17:20:52,926 - INFO - Epoch 198/200, Epoch time: 14.32s, Test accuracy: 95.27%
+2025-06-06 17:21:06,071 - INFO - Training Epoch 199/200: 100%|█| 391/391 [00:13<00:00, 29.75it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:21:07,561 - INFO - Testing Epoch 199/200: 100%|█████| 100/100 [00:01<00:00, 67.19it/s, Test_loss=0.192, Te_acc=95.320%]
+2025-06-06 17:21:07,561 - INFO - Epoch 199/200, Epoch time: 14.63s, Test accuracy: 95.32%
+2025-06-06 17:21:21,023 - INFO - Training Epoch 200/200: 100%|█| 391/391 [00:13<00:00, 29.05it/s, Train_loss=0.001, Train_accuracy=99
+2025-06-06 17:21:22,530 - INFO - Testing Epoch 200/200: 100%|█████| 100/100 [00:01<00:00, 66.41it/s, Test_loss=0.192, Te_acc=95.410%]
+2025-06-06 17:21:22,531 - INFO - Epoch 200/200, Epoch time: 14.97s, Test accuracy: 95.41%
+2025-06-06 17:21:22,531 - INFO - Train accuracy for ResNet34: 99.99
+2025-06-06 17:21:22,531 - INFO - Best Test accuracy for ResNet34: 95.45%
+2025-06-06 17:21:22,531 - INFO - The Total parameters: 21282122
+2025-06-06 17:21:22,531 - INFO - The Total training time: 2933.80s, Average epoch time: 14.67s
