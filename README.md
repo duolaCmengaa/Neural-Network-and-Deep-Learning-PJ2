@@ -1,6 +1,4 @@
 
-
-````
 # Neural-Network-and-Deep-Learning-PJ2
 
 ## Project Description
@@ -59,7 +57,7 @@ To test the trained VGG models:
 python Test_VGG.py
 ```
 
----
+
 
 ## Best Results Achieved
 
